@@ -1,0 +1,40 @@
+$pwd //nerede olduğumuzu öğrenmek için
+$cd desktop
+$cd my_project
+
+$ls -a (ls -la)
+
+$git init //Başlangıç Olarak. Bir proje dosyası haline getirmek gerekiyor.
+$git status //İkincil Olarak Durum Beyanı
+$git rm --cached //Takip edilen dosya geçmişini siler
+$git add --all //Bütün dosyaları takip edilmesi için
+
+$git config --global user.name "username"
+$git config --global user.email "email@gmail.com"
+$git config --global user.name
+$git config --global user.email //Kullanıcı belirtildi Posta belirtildi.
+
+Commit Mesajları için Standart:
+https://www.conventionalcommits.org/en/v1.0.0/ 
+
+$git commit //Yorum Girişi Yap
+Alternatives
+$git commit -m "Beta version"
+$git commit -m "Alpha version" 
+
+Yapılan Değişikler İçin
+$git status //Alternative:
+$git diff //Bütün değişikler için
+$git log //Proje dizini olduğunu belirtmek için içerisindeki dosyaları listelemek için dosyamızı git depomuza ekleyeceğiz. Kesin bir şekilde eklemek için depodaki dosyalarımızı listeleyelim
+git remote add origin https://github.com/meganet22/ders10.git
+git branch -M main
+git push -u origin main //Dosya yükleme işlemi sonuçlandı
+
+-
+
+git init //Yardımcı bir Program Aracılığıyla Yeni repository oluşturulurken
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/meganet22/ders10.git
+git push -u origin main
