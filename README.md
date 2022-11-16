@@ -1,4 +1,7 @@
-### Hi there 👋
+### My Profile 👋
+### Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface.
+
+### My Objectives 👋
 
 <!--
 **canata09/canata09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
