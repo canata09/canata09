@@ -5,10 +5,8 @@
 ### • Frontend Developer • React Developer • Backend Developer • Web Design Expert • Web Designer • Coding Expert • Android Software Engineer • Visual Web Designer • UX Designer • UI Designer • Interface Developer
 
 
-[button url="http://www.google.com"]
-{% include button.html url="http://www.google.com" %}
-<button name="button" onclick="http://www.google.com">Click me</button>
-[Click me](http://www.google.com){: .btn}
+
+<button style="background-color:#FFF000;" name="button" onclick="http://www.google.com">Click me</button>
 
 
 <!--
