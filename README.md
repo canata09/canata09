@@ -6,6 +6,10 @@
 
 
 [button url="http://www.google.com"]
+{% include button.html url="http://www.google.com" %}
+
+
+
 <!--
 **canata09/canata09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
