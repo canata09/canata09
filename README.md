@@ -4,6 +4,8 @@
 ### My Objectives 👋
 ### • Frontend Developer • React Developer • Backend Developer • Web Design Expert • Web Designer • Coding Expert • Android Software Engineer • Visual Web Designer • UX Designer • UI Designer • Interface Developer
 
+
+<button>MY CV</button>
 <!--
 **canata09/canata09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
