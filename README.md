@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 <h5 align="left">İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..</h5>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canata09&show_icons=true&locale=en&layout=compact" alt="canata09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+
 
 
 -
@@ -38,6 +37,8 @@ Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (s
 -
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canata09" alt="canata09" /></a> </p>
 
