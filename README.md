@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 <h5 align="center">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
 <h5 align="left">İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..</h5>
+-
 <h5 align="left">
--
 Tasarım ve Düzenleme Araçları
-Görev Çubuğu
-Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
--
 </h5>
+<h5 align="left">
+Görev Çubuğu
+</h5>
+<h5 align="left">
+Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
+</h5>
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
