@@ -35,6 +35,16 @@ Görev Çubuğu
 Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
 </h5>
 -
+<h5 align="left">
+Pazarlama
+</h5>
+<h5 align="left">
+Bildirimler
+</h5>
+<h5 align="left">
+Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. (skeleton-e-form-zorunlu-alanlar)
+</h5>
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
