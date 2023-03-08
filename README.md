@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 Tasarım ve Düzenleme Araçları
 </h5>
 <h5 align="left">
+Kaydırıcı
+</h5>
+<h5 align="left">
+Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. (skeleton-c-dinamik-carrusel)
+</h5>
+<h5 align="left">
 Görev Çubuğu
 </h5>
 <h5 align="left">
