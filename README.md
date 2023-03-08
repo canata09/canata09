@@ -40,6 +40,12 @@ Görev Çubuğu
 <h5 align="left">
 Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
 </h5>
+<h5 align="left">
+Fotoğraf Galerisi
+</h5>
+<h5 align="left">
+Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. (skeleton-c-dinamik-popup)
+</h5>
 -
 <h5 align="left">
 Pazarlama
