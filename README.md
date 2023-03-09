@@ -96,6 +96,16 @@ Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısın
 </h5>
 -
 <h5 align="left">
+Performans
+</h5>
+<h5 align="left">
+Yüksek Frekanslı PWA’lar
+</h5>
+<h5 align="left">
+React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. (pwa-full-stack,version-main,reminder-version)
+</h5>
+-
+<h5 align="left">
 İstatistikler ve Bilgiler
 </h5>
 <h5 align="left">
