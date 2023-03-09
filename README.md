@@ -60,6 +60,22 @@ Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluştu
 </h5>
 -
 <h5 align="left">
+Pazarlama
+</h5>
+<h5 align="left">
+Bildirimler
+</h5>
+<h5 align="left">
+Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. (skeleton-e-form-zorunlu-alanlar)
+</h5>
+<h5 align="left">
+SEO Araçları
+</h5>
+<h5 align="left">
+Siteniz güçlü, yerleşik SEO araçları ile daha hızlı bulunsun ve Yoast ile Rank Math dahil olmak üzere premium eklentilere erişim sağlayın. (site-content-model)
+</h5>
+-
+<h5 align="left">
 Genişletilebilirlik
 </h5>
 <h5 align="left">
@@ -78,17 +94,7 @@ Sınırsız Node Genişliği ve Trafik
 <h5 align="left">
 Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. (indoor-node-js)
 </h5>
--
-<h5 align="left">
-Pazarlama
-</h5>
-<h5 align="left">
-Bildirimler
-</h5>
-<h5 align="left">
-Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. (skeleton-e-form-zorunlu-alanlar)
-</h5>
--
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
