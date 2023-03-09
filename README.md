@@ -60,6 +60,16 @@ Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluştu
 </h5>
 -
 <h5 align="left">
+Genişletilebilirlik
+</h5>
+<h5 align="left">
+Laravel Koruması
+</h5>
+<h5 align="left">
+En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. (lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,accordion-extension,laravel-engine)
+</h5>
+-
+<h5 align="left">
 Pazarlama
 </h5>
 <h5 align="left">
