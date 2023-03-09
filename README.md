@@ -94,7 +94,23 @@ Sınırsız Node Genişliği ve Trafik
 <h5 align="left">
 Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. (indoor-node-js)
 </h5>
-
+-
+<h5 align="left">
+İstatistikler ve Bilgiler
+</h5>
+<h5 align="left">
+Pagination Analytics
+</h5>
+<h5 align="left">
+Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle ilgili detaylı verilere erişim sağlayın. (summary-main)
+</h5>
+<h5 align="left">
+İlerici İstatistikleri
+</h5>
+<h5 align="left">
+Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. (barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous)
+</h5>
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
