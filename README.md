@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 Tasarım ve Düzenleme Araçları
 </h5>
 <h5 align="left">
+Güzel Temalar
+</h5>
+<h5 align="left">
+Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. (skeleton-b-jump-menu)
+</h5>
+<h5 align="left">
 Kaydırıcı
 </h5>
 <h5 align="left">
