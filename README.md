@@ -41,6 +41,12 @@ Görev Çubuğu
 Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
 </h5>
 <h5 align="left">
+Önceden Hazırlanmış Blok Desenleri
+</h5>
+<h5 align="left">
+İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. (skeleton-c-dinamik-menu)
+</h5>
+<h5 align="left">
 Fotoğraf Galerisi
 </h5>
 <h5 align="left">
