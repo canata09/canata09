@@ -120,7 +120,7 @@ Küresel CDN
 Üstün Nitelikli Görsel Yönetimi
 </h5>
 <h5 align="left">
-WordPress.com anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır.
+GitHub anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır.
 </h5>
 <h5 align="left">
 Otomatik Geniş Ölçeklendirme
