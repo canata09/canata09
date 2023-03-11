@@ -121,6 +121,28 @@ Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle i
 Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. (barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous)
 </h5>
 -
+<h5 align="left">
+Site Yönetimi
+</h5>
+<h5 align="left">
+E-posta ile Yaz
+</h5>
+<h5 align="left">
+Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın.
+</h5>
+<h5 align="left">
+Gönderi Zamanlama
+</h5>
+<h5 align="left">
+Yazılarınızı önceden zamanlayın.
+</h5>
+<h5 align="left">
+Benzer Yazılar
+</h5>
+<h5 align="left">
+Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun.
+</h5>
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
