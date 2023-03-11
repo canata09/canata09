@@ -106,6 +106,28 @@ React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakın
 </h5>
 -
 <h5 align="left">
+Güvenlik
+</h5>
+<h5 align="left">
+DDoS ve WAF Koruması
+</h5>
+<h5 align="left">
+Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller.
+</h5>
+<h5 align="left">
+Zararlı Yazılım Tarama ve Kaldırma
+</h5>
+<h5 align="left">
+Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun.
+</h5>
+<h5 align="left">
+Hesap Güvenlik Araçları
+</h5>
+<h5 align="left">
+İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın.
+</h5>
+-
+<h5 align="left">
 İstatistikler ve Bilgiler
 </h5>
 <h5 align="left">
