@@ -104,6 +104,30 @@ Yüksek Frekanslı PWA’lar
 <h5 align="left">
 React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. (pwa-full-stack,version-main,reminder-version)
 </h5>
+<h5 align="left">
+GitHub için Optimize Edilmiş Barındırma
+</h5>
+<h5 align="left">
+15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti.
+</h5>
+<h5 align="left">
+Küresel CDN
+</h5>
+<h5 align="left">
+6 kıtaya yayılan 28+ veri merkezimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur.
+</h5>
+<h5 align="left">
+Üstün Nitelikli Görsel Yönetimi
+</h5>
+<h5 align="left">
+WordPress.com anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır.
+</h5>
+<h5 align="left">
+Otomatik Geniş Ölçeklendirme
+</h5>
+<h5 align="left">
+Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir.
+</h5>
 -
 <h5 align="left">
 Güvenlik
