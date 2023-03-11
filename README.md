@@ -84,6 +84,24 @@ Laravel Koruması
 <h5 align="left">
 En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. (lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,accordion-extension,laravel-engine)
 </h5>
+<h5 align="left">
+Eklentiler
+</h5>
+<h5 align="left">
+Bir düğmeye tıklayarak sitenizin işlevselliğini genişletin. 50.000’in üzerinde eklentiyle hayal ettiğiniz her şeyi sunuyoruz.
+</h5>
+<h5 align="left">
+Akismet ile Spam Koruması
+</h5>
+<h5 align="left">
+Sitenizi profesyonel ve güvenilir kaldığından emin olmak için istenmeyen yorumları önleyin.
+</h5>
+<h5 align="left">
+Jetpack araması
+</h5>
+<h5 align="left">
+En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin.
+</h5>
 -
 <h5 align="left">
 Güvenilirlik
@@ -93,6 +111,18 @@ Sınırsız Node Genişliği ve Trafik
 </h5>
 <h5 align="left">
 Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. (indoor-node-js)
+</h5>
+<h5 align="left">
+7/24 Uzman Desteği
+</h5>
+<h5 align="left">
+Mutluluk Mühendislerimiz tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır.
+</h5>
+<h5 align="left">
+Jetpack Yedekleme ve Geri Yüklemeleri
+</h5>
+<h5 align="left">
+Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin.
 </h5>
 -
 <h5 align="left">
