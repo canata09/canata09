@@ -53,6 +53,12 @@ Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (s
 İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. (skeleton-c-dinamik-menu)
 </h5>
 <h5 align="left">
+Gelişmiş Tasarım Araçları
+</h5>
+<h5 align="left">
+Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin.
+</h5>
+<h5 align="left">
 Fotoğraf Galerisi
 </h5>
 <h5 align="left">
@@ -73,6 +79,36 @@ SEO Araçları
 </h5>
 <h5 align="left">
 Siteniz güçlü, yerleşik SEO araçları ile daha hızlı bulunsun ve Yoast ile Rank Math dahil olmak üzere premium eklentilere erişim sağlayın. (site-content-model)
+</h5>
+<h5 align="left">
+E-posta İle Pazarlama
+</h5>
+<h5 align="left">
+En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın.
+</h5>
+<h5 align="left">
+Özel Alan Adı
+</h5>
+<h5 align="left">
+Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın.
+</h5>
+<h5 align="left">
+Okuyucu
+</h5>
+<h5 align="left">
+Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun.
+</h5>
+<h5 align="left">
+GitHub.com Haber Bülteni
+</h5>
+<h5 align="left">
+Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin.
+</h5>
+<h5 align="left">
+Form Bloku
+</h5>
+<h5 align="left">
+Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin.
 </h5>
 -
 <h5 align="left">
@@ -101,6 +137,34 @@ Jetpack araması
 </h5>
 <h5 align="left">
 En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin.
+</h5>
+-
+<h5 align="left">
+Para Kazanma Araçları
+</h5>
+<h5 align="left">
+Ödeme Alma
+</h5>
+<h5 align="left">
+Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın.
+</h5>
+<h5 align="left">
+Kelime Reklamlar
+</h5>
+<h5 align="left">
+Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin.
+</h5>
+<h5 align="left">
+Premium İçerik Bloku
+</h5>
+<h5 align="left">
+Ücretli abonelerinize özel ek, premium içerik oluşturun.
+</h5>
+<h5 align="left">
+Ücretli Bültenler
+</h5>
+<h5 align="left">
+Ücretli abonelerinize e-posta yoluyla premium içerik gönderin.
 </h5>
 -
 <h5 align="left">
