@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Can Ata</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</h3>
 
 <div align="center">
   Can Ata is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.<br/>
