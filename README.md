@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Can Ata</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+
+<div align="center">
+  The <a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a> recommended Node.js version manager for <em>Windows</em>.<br/>
+  
+  
+  
+
 <h5 align="center">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
 <h5 align="left">İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..</h5>
@@ -286,12 +293,7 @@ Benzer Yazılar
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/canataweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canataweb" height="30" width="40" /></a>
-<a href="https://dribbble.com/meganetadvances" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="meganetadvances" height="30" width="40" /></a>
-<a href="https://medium.com/@canata09074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@canata09074" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
