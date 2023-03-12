@@ -7,6 +7,19 @@
 
 
 
+**canata09/canata09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m looking to collaborate on AWS for React js Redux App with NodeJS backend
+- 🌱 I’m looking to collaborate on Azure for NodeJS backend App
+- 👯 I’m looking to collaborate on Firebase for Next js with NodeJS backend
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 <!---
 canata09/canata09 is a ✨ special ✨ repository.
