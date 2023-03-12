@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <div align="center">
-  The <a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a> recommended Node.js version manager for <em>Windows</em>.<br/>
+  Can Ata is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.<br/>
   
   
   
