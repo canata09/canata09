@@ -343,11 +343,11 @@ Manage multiple installations of node.js on a Windows computer.
 
 This has always been a node version manager, not an io.js manager, so there is no back-support for io.js. Node 4+ is supported. Remember when running `nvm install` or `nvm use`, Windows usually requires administrative rights (to create symlinks).
 
-![NVM for Windows](https://github.com/coreybutler/staticassets/raw/master/images/nvm-1.1.8-screenshot.jpg)
+![NVM for Windows](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react_1.png)
 
 There are situations where the ability to switch between different versions of Node.js can be very useful. For example, if you want to test a module you're developing with the latest bleeding edge version without uninstalling the stable version of node, this utility can help.
 
-![Switch between stable and unstable versions.](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react_1.png)
+![Switch between stable and unstable versions.](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/devtools_1.png)
 
 ### Installation & Upgrades
 
