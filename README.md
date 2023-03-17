@@ -5,6 +5,41 @@
   Can Ata is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.<br/>
   
   
+<h1 align="center">NVM for Windows</h1>
+
+<div align="center">
+
+
+<details>
+<summary><b>This is not the same thing as nvm!</b> (expand for details)</summary>
+
+_The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate project for Mac/Linux only._ This project uses an entirely different philosophy and is not just a clone of nvm. Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).
+</details>
+
+[![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/coreybutler/nvm-windows/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/coreybutler/nvm-windows?label=Latest%20Release&style=social&x=1)]((https://github.com/coreybutler/nvm-windows/releases)) ![GitHub Release Date](https://img.shields.io/github/release-date/coreybutler/nvm-windows?label=Released&style=social) ![GitHub all releases](https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?label=Downloads&style=social) [![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fhashtags%3Dnodejs%26original_referer%3Dhttp%253A%252F%252F127.0.0.1%253A91%252F%26text%3DCheck%2520out%2520NVM%2520for%2520Windows%21%26tw_p%3Dtweetbutton%26url%3Dhttp%253A%252F%252Fgithub.com%252Fcoreybutler%252Fnvm-windows%26via%3Dgoldglovecb)](https://twitter.com/intent/tweet?hashtags=nodejs&original_referer=http%3A%2F%2F127.0.0.1%3A91%2F&text=Check%20out%20NVM%20for%20Windows!&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2Fcoreybutler%2Fnvm-windows&via=goldglovecb)
+</div>
+
+<h5 align="center">Sponsors</h5>
+
+<div align="center">
+  <table cellpadding="5" cellspacing="0" border="0" align="center">
+    <tr>
+      <td><a href="https://metadoc.io"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/metadoclogobig.png" width="200px"/></a></td>
+      <td><a href="https://enabledb.com"><img src="https://github.com/coreybutler/staticassets/raw/master/images/logos/logo_enabledb_w_text.png" width="200px"/></a></td>
+      <td><a href="https://butlerlogic.com"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/butlerlogic_logo.png" width="200px"/></a></td>
+      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://user-images.githubusercontent.com/770982/195955265-5c3dca78-7140-4ec6-b05a-f308518643ee.png" height="30px"/></a></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        <a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/github/sponsors/coreybutler?label=Individual%20Sponsors&logo=github&style=social"/></a>
+        &nbsp;<a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/badge/-Become%20a%20Sponsor-yellow"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+
+<div align="center"><b>Running into issues?</b> See the <a href="https://github.com/coreybutler/nvm-windows/wiki/Common-Issues">common issues wiki</a>.</div>
   
 
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
