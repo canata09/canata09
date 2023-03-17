@@ -82,11 +82,20 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
   
   
 > Tasarım ve Düzenleme Araçları<br />
+
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Güzel Temalar:</h3>
+    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Successor to <a href="https://t.co/oGqQCM9FPx">skeleton-b-jump-menu</a>
+    <h3></h3>
+  </td></tr>
+</table>
 <h5 align="left">
 Güzel Temalar
 </h5>
 <h5 align="left">
-Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. (skeleton-b-jump-menu)
+Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Successor to <a href="https://t.co/oGqQCM9FPx">skeleton-b-jump-menu</a>
 </h5>
 <h5 align="left">
 Kaydırıcı
