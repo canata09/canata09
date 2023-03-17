@@ -118,7 +118,7 @@ Fotoğraf Galerisi
 <h5 align="left">
 Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. (skeleton-c-dinamik-popup)
 </h5>
--
+
 > Pazarlama<br />
 <h5 align="left">
 Bildirimler
