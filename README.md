@@ -14,10 +14,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
 
-
--
 <h5 align="left">
 Tasarım ve Düzenleme Araçları
 </h5>
@@ -281,7 +280,7 @@ Benzer Yazılar
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canata09" alt="canata09" /></a> </p>
 
