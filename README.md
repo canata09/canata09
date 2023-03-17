@@ -162,7 +162,7 @@ Form Bloku
 <h5 align="left">
 Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin.
 </h5>
--
+
 > Genişletilebilirlik<br />
 <h5 align="left">
 Laravel Koruması
@@ -188,7 +188,7 @@ Jetpack araması
 <h5 align="left">
 En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin.
 </h5>
--
+
 > Para Kazanma Araçları<br />
 <h5 align="left">
 Ödeme Alma
@@ -214,7 +214,7 @@ Premium İçerik Bloku
 <h5 align="left">
 Ücretli abonelerinize e-posta yoluyla premium içerik gönderin.
 </h5>
--
+
 > Güvenilirlik<br />
 <h5 align="left">
 Sınırsız Node Genişliği ve Trafik
@@ -234,7 +234,7 @@ Jetpack Yedekleme ve Geri Yüklemeleri
 <h5 align="left">
 Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin.
 </h5>
--
+
 > Performans<br />
 <h5 align="left">
 Yüksek Frekanslı PWA’lar
@@ -266,7 +266,7 @@ Otomatik Geniş Ölçeklendirme
 <h5 align="left">
 Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir.
 </h5>
--
+
 > Güvenlik<br />
 <h5 align="left">
 DDoS ve WAF Koruması
@@ -286,7 +286,7 @@ Hesap Güvenlik Araçları
 <h5 align="left">
 İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın.
 </h5>
--
+
 > İstatistikler ve Bilgiler<br />
 <h5 align="left">
 Pagination Analytics
@@ -300,7 +300,7 @@ Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle i
 <h5 align="left">
 Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. (barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous)
 </h5>
--
+
 > Site Yönetimi<br />
 <h5 align="left">
 E-posta ile Yaz
