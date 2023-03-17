@@ -80,6 +80,16 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
   </td></tr>
 </table>
   
+  
+<br/>
+  
+  
+
+    nvm use 14.0.0
+    npm install -g yarn
+    nvm use 12.0.1
+    npm install -g yarn
+  
 > Blockqoutes<br />
 <h5 align="left">
 Tasarım ve Düzenleme Araçları
