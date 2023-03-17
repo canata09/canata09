@@ -54,12 +54,12 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 <br/>
   
   
-```
-nvm use 14.0.0
-npm install -g yarn
-nvm use 12.0.1
-npm install -g yarn
-```
+
+    nvm use 14.0.0
+    npm install -g yarn
+    nvm use 12.0.1
+    npm install -g yarn
+
   
 ## Overview
 <table style="background-color:red;padding:6px;border-radius:3px;">
