@@ -60,6 +60,13 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
     nvm use 12.0.1
     npm install -g yarn
 
+### Usage
+
+**nvm-windows runs in an Admin shell**. You'll need to start `powershell` or Command Prompt as Administrator to use nvm-windows
+
+NVM for Windows is a command line tool. Simply type `nvm` in the console for help. The basic commands are:
+
+- **`nvm npm_mirror <npm_mirror_url>`**: Set the npm mirror.People in China can use *https://npmmirror.com/mirrors/npm/*
   
 ## Overview
 <table style="background-color:red;padding:6px;border-radius:3px;">
@@ -87,7 +94,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Güzel Temalar:</h3>
-    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-b-jump-menu</a>**`skeleton-b-jump-menu <skeleton-b-jump-menu_url>`**
+    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-b-jump-menu</a>
     <h3></h3>
   </td></tr>
 </table>
