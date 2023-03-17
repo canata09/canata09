@@ -51,7 +51,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
-  
+<br/>
   
 ## Overview
 <table style="background-color:red;padding:6px;border-radius:3px;">
