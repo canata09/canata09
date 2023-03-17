@@ -49,7 +49,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
 <br/>
   
