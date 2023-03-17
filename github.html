@@ -11,21 +11,20 @@ $git config --global user.name
 $git config --global user.email //Kullanıcı belirtildi Posta belirtildi.
 
 
-$git init //Başlangıç Olarak. Bir proje dosyası haline getirmek gerekiyor.
-$git status //İkincil Olarak Durum Beyanı
-$git rm --cached //Takip edilen dosya geçmişini siler
-$git add --all //Bütün dosyaları takip edilmesi için
-
-
-$git commit //Yorum Girişi Yap
-Alternatives
-$git commit -m "Beta version"
-$git commit -m "Alpha version" 
-
+git init 
+git status
+git add --all
+git commit -m "Alpha version" 
+git commit -m "Beta version"
 git remote add origin https://github.com/meganet22/ders10.git
 git branch -M main
 git checkout -b main
-git push -u origin main //Dosya yükleme işlemi sonuçlandı
+git push -u origin main
+
+
+Alternatives
+$git rm --cached //Takip edilen dosya geçmişini siler
+$git commit //Yorum Girişi Yap
 
 Yapılan Değişikler İçin
 $git status //Alternative:
