@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Can Ata</h1>
-<h3 align="center">Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</h3>
+<h1 align="left">Hi 👋, I'm Can Ata</h1>
+<h3 align="left">Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</h3>
 
-<div align="center">
+<div align="left">
   Can Ata is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.<br/>
   
   
   
 
-<h5 align="center">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
+<h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
 <h5 align="left">İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..</h5>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
 
 
@@ -281,7 +281,7 @@ Benzer Yazılar
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canata09" alt="canata09" /></a> </p>
 
