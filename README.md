@@ -47,9 +47,9 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 <h5 align="left">İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..</h5>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
 
 <br/>
   
