@@ -79,7 +79,8 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
     <h3></h3>
   </td></tr>
 </table>
-
+  
+> Blockqoutes<br />
 <h5 align="left">
 Tasarım ve Düzenleme Araçları
 </h5>
