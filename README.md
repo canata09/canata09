@@ -81,19 +81,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 </table>
   
   
-<br/>
-  
-  
-
-    nvm use 14.0.0
-    npm install -g yarn
-    nvm use 12.0.1
-    npm install -g yarn
-  
-> Blockqoutes<br />
-<h5 align="left">
-Tasarım ve Düzenleme Araçları
-</h5>
+> Tasarım ve Düzenleme Araçları<br />
 <h5 align="left">
 Güzel Temalar
 </h5>
@@ -131,9 +119,7 @@ Fotoğraf Galerisi
 Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. (skeleton-c-dinamik-popup)
 </h5>
 -
-<h5 align="left">
-Pazarlama
-</h5>
+> Pazarlama<br />
 <h5 align="left">
 Bildirimler
 </h5>
@@ -177,9 +163,7 @@ Form Bloku
 Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin.
 </h5>
 -
-<h5 align="left">
-Genişletilebilirlik
-</h5>
+> Genişletilebilirlik<br />
 <h5 align="left">
 Laravel Koruması
 </h5>
@@ -205,9 +189,7 @@ Jetpack araması
 En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin.
 </h5>
 -
-<h5 align="left">
-Para Kazanma Araçları
-</h5>
+> Para Kazanma Araçları<br />
 <h5 align="left">
 Ödeme Alma
 </h5>
@@ -233,9 +215,7 @@ Premium İçerik Bloku
 Ücretli abonelerinize e-posta yoluyla premium içerik gönderin.
 </h5>
 -
-<h5 align="left">
-Güvenilirlik
-</h5>
+> Güvenilirlik<br />
 <h5 align="left">
 Sınırsız Node Genişliği ve Trafik
 </h5>
@@ -255,9 +235,7 @@ Jetpack Yedekleme ve Geri Yüklemeleri
 Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin.
 </h5>
 -
-<h5 align="left">
-Performans
-</h5>
+> Performans<br />
 <h5 align="left">
 Yüksek Frekanslı PWA’lar
 </h5>
@@ -289,9 +267,7 @@ Otomatik Geniş Ölçeklendirme
 Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir.
 </h5>
 -
-<h5 align="left">
-Güvenlik
-</h5>
+> Güvenlik<br />
 <h5 align="left">
 DDoS ve WAF Koruması
 </h5>
@@ -311,9 +287,7 @@ Hesap Güvenlik Araçları
 İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın.
 </h5>
 -
-<h5 align="left">
-İstatistikler ve Bilgiler
-</h5>
+> İstatistikler ve Bilgiler<br />
 <h5 align="left">
 Pagination Analytics
 </h5>
@@ -327,9 +301,7 @@ Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle i
 Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. (barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous)
 </h5>
 -
-<h5 align="left">
-Site Yönetimi
-</h5>
+> Site Yönetimi<br />
 <h5 align="left">
 E-posta ile Yaz
 </h5>
