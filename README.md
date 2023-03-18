@@ -66,26 +66,11 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 
 NVM for Windows is a command line tool. Simply type `nvm` in the console for help. The basic commands are:
 
-- **`nvm npm_mirror <npm_mirror_url>`**: Set the npm mirror.People in China can use *https://npmmirror.com/mirrors/npm/*
-  
-## Overview
-<table style="background-color:red;padding:6px;border-radius:3px;">
+- **`shortcut <reminder>`**: VS Code (rt)</a>, Please press (Ctrl + Shift + V) .*
+- **`shortcut <reminder>`**: VS Code (rt)</a>, Please press (Ctrl + G) .*
 
-  <tr><td>
-    <h3>Shortcut Reminder:</h3>
-    We're working on <a href="https://github.com/coreybutler/nvm-windows/wiki/Runtime">VS Code (rt)</a>, the successor to NVM For Windows. Please press (Ctrl + Shift + V) by taking a minute to complete <a href="https://t.co/oGqQCM9FPx">this form</a>. Thank you!
-    <h3></h3>
-  </td></tr>
-</table>
 
-## Overview
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Shortcut Reminder:</h3>
-    We're working on <a href="https://github.com/coreybutler/nvm-windows/wiki/Runtime">VS Code (rt)</a>, the successor to NVM For Windows. Please press (Ctrl + G) by taking a minute to complete <a href="https://t.co/oGqQCM9FPx">this form</a>. Thank you!
-    <h3></h3>
-  </td></tr>
-</table>
+
   
   
 > Tasarım ve Düzenleme Araçları<br />
