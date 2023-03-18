@@ -22,15 +22,16 @@ git checkout -b main
 git push -u origin main
 
 
-git init 
+Creating New Branch
 git status
+git branch alpha
+git status
+git branch --list
+git checkout alpha
+git branch --list
 git add --all
 git commit -m "Alpha version" 
-git commit -m "Beta version"
-git remote add origin https://github.com/meganet22/ders10.git
-git branch -M main
-git checkout -b main
-git push -u origin main
+git push --set-upstream origin alpha
 
 
 Alternatives
