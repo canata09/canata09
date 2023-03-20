@@ -13,7 +13,7 @@
 <details>
 <summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
 
-_Can Ata [nvm](https://github.com/canata09) is a completely separate project for Mac/Linux only._ This project uses an entirely different philosophy and is not just a clone of nvm. Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).
+_Can Ata [nvm](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.
 </details>
 
 [![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/canata09) 
