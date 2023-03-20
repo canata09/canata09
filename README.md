@@ -54,7 +54,7 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
 
 <br/>
   
-  
+### Usage
 
     nvm use 14.0.0
     npm install -g yarn
@@ -63,16 +63,6 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
     shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + Shift + V)
     shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + G)
   
-### Usage
-
-**nvm-windows runs in an Admin shell**. You'll need to start `powershell` or Command Prompt as Administrator to use nvm-windows
-
-NVM for Windows is a command line tool. Simply type `nvm` in the console for help. The basic commands are:
-
-- **`shortcut <reminder>`**: VS Code (rt)</a>, Please press (Ctrl + Shift + V) .*
-- **`shortcut <reminder>`**: VS Code (rt)</a>, Please press (Ctrl + G) .*
-
-
 
   
   
