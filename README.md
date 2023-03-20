@@ -120,12 +120,14 @@ Gelişmiş Tasarım Araçları
 <h5 align="left">
 Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin.
 </h5>
-<h5 align="left">
-Fotoğraf Galerisi
-</h5>
-<h5 align="left">
-Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. (skeleton-c-dinamik-popup)
-</h5>
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Fotoğraf Galerisi:</h3>
+    Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-popup</a>
+    <h3></h3>
+  </td></tr>
+</table>
 
 > Pazarlama<br />
   
