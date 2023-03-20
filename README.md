@@ -21,8 +21,8 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
 ![GitHub Release Date](https://img.shields.io/github/release-date/coreybutler/nvm-windows?label=Released&style=social) 
 ![GitHub all releases](https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?label=Downloads&style=social) 
 [![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) 
-[![Twitter URL](https://github.com/canata09)](https://twitter.com/intent/tweet?hashtags=nodejs&original_referer=http%3A%2F%2F127.0.0.1%3A91%2F&text=Check%20out%20NVM%20for%20Windows!&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2Fcoreybutler%2Fnvm-windows&via=goldglovecb)
-<p > <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
+[![Tartiş](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) 
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
