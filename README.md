@@ -103,12 +103,15 @@ Görev Çubuğu
 <h5 align="left">
 Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
 </h5>
-<h5 align="left">
-Önceden Hazırlanmış Blok Desenleri
-</h5>
-<h5 align="left">
-İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. (skeleton-c-dinamik-menu)
-</h5>
+  
+  <table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Önceden Hazırlanmış Blok Desenleri:</h3>
+    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-menu</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
 <h5 align="left">
 Gelişmiş Tasarım Araçları
 </h5>
