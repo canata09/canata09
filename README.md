@@ -46,9 +46,10 @@ _Can Ata [nvm](https://github.com/canata09) is a completely separate project for
   </table>
 </div>
 <br/>
-
+  
+<details>
 _ Running into issues?_  See the Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).
-
+</details> 
 
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
