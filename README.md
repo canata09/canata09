@@ -11,9 +11,9 @@
 
 
 <details>
-<summary><b>This is not the same thing as nvm!</b> (expand for details)</summary>
+<summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
 
-_The original [nvm](https://github.com/canata09) is a completely separate project for Mac/Linux only._ This project uses an entirely different philosophy and is not just a clone of nvm. Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).
+_Can Ata [nvm](https://github.com/canata09) is a completely separate project for Mac/Linux only._ This project uses an entirely different philosophy and is not just a clone of nvm. Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).
 </details>
 
 [![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/canata09) 
@@ -47,8 +47,8 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
 </div>
 <br/>
 
-<div align="center"><b>Running into issues?</b> See the <a href="https://github.com/coreybutler/nvm-windows/wiki/Common-Issues">common issues wiki</a>.</div>
-  
+<div align="center"><b>Running into issues?</b> See the Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).</div>
+
 
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
