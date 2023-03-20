@@ -21,9 +21,11 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
 ![GitHub Release Date](https://img.shields.io/github/release-date/coreybutler/nvm-windows?label=Released&style=social) 
 ![GitHub all releases](https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?label=Downloads&style=social) 
 [![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) 
-[![Tartiş](
-  [https://img.shields.io/badge/-Discuss-blue](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/coreybutler/nvm-windows/discussions) 
+[![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) 
 
+[![Discuss](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/coreybutler/nvm-windows/discussions) 
+  
+  
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
