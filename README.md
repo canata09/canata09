@@ -104,12 +104,15 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
   </td></tr>
 </table>
   
-<h5 align="left">
-Gelişmiş Tasarım Araçları
-</h5>
-<h5 align="left">
-Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin.
-</h5>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Gelişmiş Tasarım Araçları:</h3>
+    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+  
   
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
@@ -129,12 +132,15 @@ Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si �
   </td></tr>
 </table>
 
-<h5 align="left">
-SEO Araçları
-</h5>
-<h5 align="left">
-Siteniz güçlü, yerleşik SEO araçları ile daha hızlı bulunsun ve Yoast ile Rank Math dahil olmak üzere premium eklentilere erişim sağlayın. (site-content-model)
-</h5>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>SEO Araçları:</h3>
+    Siteniz güçlü, yerleşik SEO araçları ile daha hızlı bulunsun ve Yoast ile Rank Math dahil olmak üzere premium eklentilere erişim sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">site-content-model</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+  
 <h5 align="left">
 E-posta İle Pazarlama
 </h5>
