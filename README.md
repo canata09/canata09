@@ -25,9 +25,9 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
   
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat" alt="canata09" /> </p>
 
-<h5 align="center">Sponsors</h5>
+
+<h5 align="center">Actual technology options for web publishing</h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
