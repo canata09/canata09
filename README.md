@@ -60,7 +60,9 @@ _The original [nvm](https://github.com/canata09) is a completely separate projec
     npm install -g yarn
     nvm use 12.0.1
     npm install -g yarn
-
+    shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + Shift + V)
+    shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + G)
+  
 ### Usage
 
 **nvm-windows runs in an Admin shell**. You'll need to start `powershell` or Command Prompt as Administrator to use nvm-windows
