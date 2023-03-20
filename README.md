@@ -2,9 +2,6 @@
 <h3 align="left">Results-oriented Web Application Development</h3>
 
 <div align="left">
- 
-  
-<h1 align="center">Results-oriented Web Application Development</h1>
 
 <div align="center">
 
