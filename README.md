@@ -126,12 +126,15 @@ Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluştu
 </h5>
 
 > Pazarlama<br />
-<h5 align="left">
-Bildirimler
-</h5>
-<h5 align="left">
-Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. (skeleton-e-form-zorunlu-alanlar)
-</h5>
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Bildirimler:</h3>
+    Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-e-form-zorunlu-alanlar</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 <h5 align="left">
 SEO Araçları
 </h5>
