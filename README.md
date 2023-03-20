@@ -85,19 +85,14 @@ NVM for Windows is a command line tool. Simply type `nvm` in the console for hel
   </td></tr>
 </table>
   
-<h5 align="left">
-Güzel Temalar
-</h5>
-<h5 align="left">
-Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Successor to <a href="https://t.co/oGqQCM9FPx">skeleton-b-jump-menu</a>
-</h5>
-<h5 align="left">
-Kaydırıcı
-</h5>
-<h5 align="left">
-Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. (skeleton-c-dinamik-carrusel)
-</h5>
-  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Kaydırıcı:</h3>
+    Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-carrusel</a>
+    <h3></h3>
+  </td></tr>
+</table>
+    
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Görev Çubuğu:</h3>
