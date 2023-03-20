@@ -97,12 +97,14 @@ Kaydırıcı
 <h5 align="left">
 Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. (skeleton-c-dinamik-carrusel)
 </h5>
-<h5 align="left">
-Görev Çubuğu
-</h5>
-<h5 align="left">
-Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. (skeleton-d-form-onemli-noktalar)
-</h5>
+  
+  <table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Görev Çubuğu:</h3>
+    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-d-form-onemli-noktalar</a>
+    <h3></h3>
+  </td></tr>
+</table>
   
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
