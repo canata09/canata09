@@ -349,10 +349,10 @@ There are situations where the ability to switch between different versions of N
 
 Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. Special thanks to
 
-- [@vkbansal](https://github.com/vkbansal), who provided significant early feedback throughout the early releases.
-- [@rainabba](https://github.com/rainabba) and [@sullivanpt](https://github.com/sullivanpt) for getting Node v4 support integrated.
-- [@s-h-a-d-o-w](https://github.com/s-h-a-d-o-w) who resolved the longstanding space escaping issue in path names ([#355](https://github.com/coreybutler/nvm-windows/pull/355)).
-- [ajyong](https://github.com/ajyong) who sponsored the code signing certificate in late 2021.
+- [@canata09](https://github.com/canata09), who provided significant early feedback throughout the early releases.
+- [@canata09](https://github.com/canata09) and [@canata09](https://github.com/canata09) for getting Node v4 support integrated.
+- [@canata09](https://github.com/canata09) who resolved the longstanding space escaping issue in path names ([#355](https://github.com/canata09)).
+- [canata09](https://github.com/canata09) who sponsored the code signing certificate in late 2021.
 
 ## :languages: Tools
 
