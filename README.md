@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Can Ata</h1>
-<h3 align="left">Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</h3>
+<h3 align="left">Results-oriented Web Application Development</h3>
 
 <div align="left">
-  Can Ata is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a>/<a href="https://dribbble.com/meganetadvances">dribbble</a>/<a href="https://medium.com/@canata09074">Medium</a></em>.<br/>
-  
+ 
   
 <h1 align="center">Results-oriented Web Application Development</h1>
 
