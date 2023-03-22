@@ -31,7 +31,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
       <td><a href="https://metadoc.io"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/metadoclogobig.png" width="200px"/></a></td>
       <td><a href="https://enabledb.com"><img src="https://github.com/coreybutler/staticassets/raw/master/images/logos/logo_enabledb_w_text.png" width="200px"/></a></td>
       <td><a href="https://butlerlogic.com"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/butlerlogic_logo.png" width="200px"/></a></td>
-      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://user-images.githubusercontent.com/770982/195955265-5c3dca78-7140-4ec6-b05a-f308518643ee.png" height="30px"/></a></td>
+      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" height="30px"/></a></td>
     </tr>
     <tr>
       <td colspan="4" align="center">
