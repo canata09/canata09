@@ -141,38 +141,54 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 </table>
   
   
-<h5 align="left">
-E-posta İle Pazarlama
-</h5>
-<h5 align="left">
-En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın.
-</h5>
-<h5 align="left">
-Özel Alan Adı
-</h5>
-<h5 align="left">
-Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın.
-</h5>
-<h5 align="left">
-Okuyucu
-</h5>
-<h5 align="left">
-Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun.
-</h5>
-<h5 align="left">
-GitHub.com Haber Bülteni
-</h5>
-<h5 align="left">
-Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin.
-</h5>
-<h5 align="left">
-Form Bloku
-</h5>
-<h5 align="left">
-Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin.
-</h5>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>E-posta İle Pazarlama:</h3>
+    En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Özel Alan Adı:</h3>
+    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Okuyucu:</h3>
+    Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>GitHub.com Haber Bülteni:</h3>
+    Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Form Bloku:</h3>
+    Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 
 > Genişletilebilirlik<br />
+
 <h5 align="left">
 Laravel Koruması
 </h5>
