@@ -51,10 +51,6 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
-
 <br/>
   
 ### Interview
@@ -360,6 +356,16 @@ There are situations where the ability to switch between different versions of N
 
 ![Switch between stable and unstable versions.](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/devtools_1.png)
 
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
+
+<br/>
+  
+  
+  
+  
 ### Installation & Upgrades
 
 
