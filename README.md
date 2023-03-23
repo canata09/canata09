@@ -58,7 +58,7 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
     Everything you need.
     Everything you try to do.
     There's a feature for all of them on Github.com.
-    shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + Shift + V)
+    shortcut <reminder> VS Code , Please press to preview the Markdown file (Ctrl + Shift + V)
     shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + G)
   
 
