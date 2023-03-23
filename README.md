@@ -13,10 +13,10 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 </details>
 
 [![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/canata09) 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/coreybutler/nvm-windows?label=Latest%20Release&style=social&x=1)]((https://github.com/canata09)) 
-![GitHub Release Date](https://img.shields.io/github/release-date/coreybutler/nvm-windows?label=Released&style=social) 
-![GitHub all releases](https://img.shields.io/github/downloads/coreybutler/nvm-windows/total?label=Downloads&style=social) 
-[![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/coreybutler/nvm-windows/discussions) 
+[![GitHub tag (latest SemVer)](https://github.com/canata09)]((https://github.com/canata09)) 
+![GitHub Release Date](https://github.com/canata09) 
+![GitHub all releases](https://github.com/canata09) 
+[![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/canata09) 
 [![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
   
   
