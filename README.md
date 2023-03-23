@@ -288,91 +288,120 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 > Performans<br />
   
   
-
-<h5 align="left">
-Yüksek Frekanslı PWA’lar
-</h5>
-<h5 align="left">
-React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. (pwa-full-stack,version-main,reminder-version)
-</h5>
-<h5 align="left">
-GitHub için Optimize Edilmiş Barındırma
-</h5>
-<h5 align="left">
-15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti.
-</h5>
-<h5 align="left">
-Küresel CDN
-</h5>
-<h5 align="left">
-6 kıtaya yayılan 28+ veri merkezimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur.
-</h5>
-<h5 align="left">
-Üstün Nitelikli Görsel Yönetimi
-</h5>
-<h5 align="left">
-GitHub anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır.
-</h5>
-<h5 align="left">
-Otomatik Geniş Ölçeklendirme
-</h5>
-<h5 align="left">
-Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir.
-</h5>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Yüksek Frekanslı PWA’lar:</h3>
+    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">pwa-full-stack,version-main,reminder-version</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>GitHub için Optimize Edilmiş Barındırma:</h3>
+    15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Küresel CDN:</h3>
+    6 kıtaya yayılan 28+ veri merkezimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Üstün Nitelikli Görsel Yönetimi:</h3>
+    GitHub anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Otomatik Geniş Ölçeklendirme:</h3>
+    Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
 
 > Güvenlik<br />
-<h5 align="left">
-DDoS ve WAF Koruması
-</h5>
-<h5 align="left">
-Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller.
-</h5>
-<h5 align="left">
-Zararlı Yazılım Tarama ve Kaldırma
-</h5>
-<h5 align="left">
-Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun.
-</h5>
-<h5 align="left">
-Hesap Güvenlik Araçları
-</h5>
-<h5 align="left">
-İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın.
-</h5>
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>DDoS ve WAF Koruması:</h3>
+    Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Zararlı Yazılım Tarama ve Kaldırma:</h3>
+    Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Hesap Güvenlik Araçları:</h3>
+    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 
 > İstatistikler ve Bilgiler<br />
-<h5 align="left">
-Pagination Analytics
-</h5>
-<h5 align="left">
-Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle ilgili detaylı verilere erişim sağlayın. (summary-main)
-</h5>
-<h5 align="left">
-İlerici İstatistikleri
-</h5>
-<h5 align="left">
-Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. (barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous)
-</h5>
+  
+  
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Pagination Analytics:</h3>
+    Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle ilgili detaylı verilere erişim sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">summary-main</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>İlerici İstatistikleri:</h3>
+    Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Hesap Güvenlik Araçları:</h3>
+    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 
 > Site Yönetimi<br />
-<h5 align="left">
-E-posta ile Yaz
-</h5>
-<h5 align="left">
-Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın.
-</h5>
-<h5 align="left">
-Gönderi Zamanlama
-</h5>
-<h5 align="left">
-Yazılarınızı önceden zamanlayın.
-</h5>
-<h5 align="left">
-Benzer Yazılar
-</h5>
-<h5 align="left">
-Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun.
-</h5>
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>E-posta ile Yaz:</h3>
+    Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Gönderi Zamanlama:</h3>
+    Yazılarınızı önceden zamanlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Benzer Yazılar:</h3>
+    Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+
 
 
 ## Client-Server Architecture
