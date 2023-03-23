@@ -30,13 +30,13 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
     <tr>
       <td><a href="https://metadoc.io"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="200px"/></a></td>
       <td><a href="https://enabledb.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="200px"/></a></td>
-      <td><a href="https://butlerlogic.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="200px"/></a></td>
-      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" height="30px"/></a></td>
+      <td><a href="https://butlerlogic.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="30px"/></a></td>
+      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AMP_logo_-_Brand-Blue.png/800px-AMP_logo_-_Brand-Blue.png" height="30px"/></a></td>
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/github/sponsors/coreybutler?label=Individual%20Sponsors&logo=github&style=social"/></a>
-        &nbsp;<a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/badge/-Become%20a%20Sponsor-yellow"/></a>
+        <a href="https://github.com/canata09"><img src="https://img.shields.io/github/sponsors/coreybutler?label=Individual%20Sponsors&logo=github&style=social"/></a>
+        &nbsp;<a href="https://github.com/canata09"><img src="https://img.shields.io/badge/-Become%20a%20Sponsor-yellow"/></a>
       </td>
     </tr>
   </table>
