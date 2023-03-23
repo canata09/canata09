@@ -49,7 +49,7 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
-> İhtiyacınız olan her şey. Yapmaya çalıştığınız her şey. Hepsi için Github.com’da bir özellik var..<br />
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
 
@@ -57,12 +57,11 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 
 <br/>
   
-### Usage
+### Interview
 
-    nvm use 14.0.0
-    npm install -g yarn
-    nvm use 12.0.1
-    npm install -g yarn
+    Everything you need.
+    Everything you try to do.
+    There's a feature for all of them on Github.com.
     shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + Shift + V)
     shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + G)
   
