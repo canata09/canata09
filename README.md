@@ -184,78 +184,111 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 
 > Genişletilebilirlik<br />
 
-<h5 align="left">
-Laravel Koruması
-</h5>
-<h5 align="left">
-En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. (lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,accordion-extension,laravel-engine)
-</h5>
-<h5 align="left">
-Eklentiler
-</h5>
-<h5 align="left">
-Bir düğmeye tıklayarak sitenizin işlevselliğini genişletin. 50.000’in üzerinde eklentiyle hayal ettiğiniz her şeyi sunuyoruz.
-</h5>
-<h5 align="left">
-Akismet ile Spam Koruması
-</h5>
-<h5 align="left">
-Sitenizi profesyonel ve güvenilir kaldığından emin olmak için istenmeyen yorumları önleyin.
-</h5>
-<h5 align="left">
-Jetpack araması
-</h5>
-<h5 align="left">
-En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin.
-</h5>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Laravel Koruması:</h3>
+    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,accordion-extension,laravel-engine</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Eklentiler:</h3>
+    Bir düğmeye tıklayarak sitenizin işlevselliğini genişletin. 50.000’in üzerinde eklentiyle hayal ettiğiniz her şeyi sunuyoruz. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Akismet ile Spam Koruması:</h3>
+    Sitenizi profesyonel ve güvenilir kaldığından emin olmak için istenmeyen yorumları önleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
+
+  
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Jetpack araması:</h3>
+    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+  
 
 > Para Kazanma Araçları<br />
-<h5 align="left">
-Ödeme Alma
-</h5>
-<h5 align="left">
-Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın.
-</h5>
-<h5 align="left">
-Kelime Reklamlar
-</h5>
-<h5 align="left">
-Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin.
-</h5>
-<h5 align="left">
-Premium İçerik Bloku
-</h5>
-<h5 align="left">
-Ücretli abonelerinize özel ek, premium içerik oluşturun.
-</h5>
-<h5 align="left">
-Ücretli Bültenler
-</h5>
-<h5 align="left">
-Ücretli abonelerinize e-posta yoluyla premium içerik gönderin.
-</h5>
+  
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Ödeme Alma:</h3>
+    Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Kelime Reklamlar:</h3>
+    Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Premium İçerik Bloku:</h3>
+    Ücretli abonelerinize özel ek, premium içerik oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Ücretli Bültenler:</h3>
+    Ücretli abonelerinize e-posta yoluyla premium içerik gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 
 > Güvenilirlik<br />
-<h5 align="left">
-Sınırsız Node Genişliği ve Trafik
-</h5>
-<h5 align="left">
-Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. (indoor-node-js)
-</h5>
-<h5 align="left">
-7/24 Uzman Desteği
-</h5>
-<h5 align="left">
-Mutluluk Mühendislerimiz tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır.
-</h5>
-<h5 align="left">
-Jetpack Yedekleme ve Geri Yüklemeleri
-</h5>
-<h5 align="left">
-Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin.
-</h5>
+  
+  
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Sınırsız Node Genişliği ve Trafik:</h3>
+    Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">indoor-node-js</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>7/24 Uzman Desteği:</h3>
+    Mutluluk Mühendislerimiz tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
+<table style="background-color:red;padding:6px;border-radius:3px;">
+  <tr><td>
+    <h3>Jetpack Yedekleme ve Geri Yüklemeleri:</h3>
+    Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    <h3></h3>
+  </td></tr>
+</table>
+
 
 > Performans<br />
+  
+  
+
 <h5 align="left">
 Yüksek Frekanslı PWA’lar
 </h5>
