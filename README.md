@@ -365,7 +365,7 @@ There are situations where the ability to switch between different versions of N
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canata09" alt="canata09" /></a> </p>
 
-## :pray: Thanks
+## :pray: Elementary Classes
 
 Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. Special thanks to
 
