@@ -16,7 +16,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 [![GitHub tag (latest SemVer)](https://github.com/canata09)]((https://github.com/canata09)) 
 ![GitHub Release Date](https://github.com/canata09) 
 ![GitHub all releases](https://github.com/canata09) 
-[![Discuss](https://img.shields.io/badge/-Discuss-blue)](https://github.com/canata09) 
+[![Preview](https://img.shields.io/badge/-Discuss-blue)](https://github.com/canata09) 
 [![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
   
   
