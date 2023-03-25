@@ -365,7 +365,7 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>İlerici İstatistikleri:</h3>
-    Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">barcode-expanded,chips_barcode,bottom-navabar-barcode,caseonly_graphfragment,ten-casting-view,layout-barcode,ideal-octo-couscous</a>
+    Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">barcode-expanded</a>
     <h3></h3>
   </td></tr>
 </table>
