@@ -188,7 +188,7 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Laravel Koruması:</h3>
-    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,accordion-extension,laravel-engine</a>
+    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">lite-cast-extensions,lite-process,virtual-brutal,conduct-workbox,laravel-engine</a>
     <h3></h3>
   </td></tr>
 </table>
