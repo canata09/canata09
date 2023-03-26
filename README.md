@@ -58,9 +58,10 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 
     Everything you need.
     Everything you try to do.
-    There's a feature for all of them on Github.com.
+    There's a feature for all of them on Browser.
     shortcut <reminder> VS Code , Please press to preview the Markdown file (Ctrl + Shift + V)
-    shortcut <reminder> VS Code (rt)</a>, Please press (Ctrl + G)
+    shortcut <reminder> VS Code , Please press to go to a specific line (Ctrl + G)
+    shortcut <reminder> Chrome  , Please press to jump to the next open tab (Ctrl + Tab)
   
 
   
