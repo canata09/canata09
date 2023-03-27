@@ -293,7 +293,7 @@ _ Running into issues?_  See the Details are listed in [Why another version mana
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Yüksek Frekanslı PWA’lar:</h3>
-    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">pwa-full-stack,version-main,reminder-version</a>
+    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">pwa-full-stack,reminder-version</a>
     <h3></h3>
   </td></tr>
 </table>
