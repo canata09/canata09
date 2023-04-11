@@ -34,11 +34,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AMP_logo_-_Brand-Blue.png/800px-AMP_logo_-_Brand-Blue.png" width="130px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="130px"/></a></td>
     </tr>
-    <tr>
-	<td align="center">
-		<a href="https://github.com/canata09"></a>
-    	</td>
-    </tr>
+
   </table>
 </div>
 <br/>
