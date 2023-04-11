@@ -35,10 +35,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="130px"/></a></td>
     </tr>
     <tr>
-      <td colspan="5" align="center">
-        
-        &nbsp;
-      </td>
+
     </tr>
   </table>
 </div>
