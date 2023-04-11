@@ -36,8 +36,8 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <a href="https://github.com/canata09"><img src="https://img.shields.io/github/sponsors/coreybutler?label=Individual%20Sponsors&logo=github&style=social"/></a>
-        &nbsp;<a href="https://github.com/canata09"><img src="https://img.shields.io/badge/-Become%20a%20Sponsor-yellow"/></a>
+        
+        &nbsp;
       </td>
     </tr>
   </table>
