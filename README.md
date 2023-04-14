@@ -43,7 +43,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <div align="center">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo-composer-transparent.png/120px-Logo-composer-transparent.png" width="110px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo-composer-transparent.png/120px-Logo-composer-transparent.png" width="50px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png" width="110px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/120px-Laravel.svg.png" width="80px"/></a></td>
 <td><a href="https://github.com/canata09"><img src="https://atomrace.com/blog/wp-content/uploads/2016/03/jwt-json-web-token-avec-angular-js.png" width="100px"/></a></td>
