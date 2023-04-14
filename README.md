@@ -37,8 +37,12 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 
   </table>
 </div>
+	
 <br/>
 
+
+<br/>
+	
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
 
