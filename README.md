@@ -45,7 +45,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
     <tr>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo-composer-transparent.png/120px-Logo-composer-transparent.png" width="50px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png" width="90px"/></a></td>
-      <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/120px-Laravel.svg.png" width="60px"/></a></td>
+      <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/120px-Laravel.svg.png" width="50px"/></a></td>
 <td><a href="https://github.com/canata09"><img src="https://atomrace.com/blog/wp-content/uploads/2016/03/jwt-json-web-token-avec-angular-js.png" width="100px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AMP_logo_-_Brand-Blue.png/800px-AMP_logo_-_Brand-Blue.png" width="130px"/></a></td>
     </tr>
