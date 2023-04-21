@@ -87,7 +87,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Kaydırıcı:</h3>
-    Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-carrusel</a>
+    Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">c-dinamik-carrusel</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -95,7 +95,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Görev Çubuğu:</h3>
-    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-d-form-onemli-noktalar</a>
+    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">d-form-onemli-noktalar</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -103,7 +103,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Önceden Hazırlanmış Blok Desenleri:</h3>
-    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-menu</a>
+    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">c-dinamik-menu</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -121,7 +121,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Fotoğraf Galerisi:</h3>
-    Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-c-dinamik-popup</a>
+    Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">c-dinamik-popup</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -131,7 +131,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Bildirimler:</h3>
-    Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-e-form-zorunlu-alanlar</a>
+    Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">e-form-zorunlu-alanlar</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -148,7 +148,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>E-posta İle Pazarlama:</h3>
-    En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">site-content-model</a>
     <h3></h3>
   </td></tr>
 </table>
