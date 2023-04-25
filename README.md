@@ -95,7 +95,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Görev Çubuğu:</h3>
-    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">d-form-onemli-noktalar</a>
+    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -111,7 +111,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Gelişmiş Tasarım Araçları:</h3>
-    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -157,7 +157,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Özel Alan Adı:</h3>
-    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -167,7 +167,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Okuyucu:</h3>
-    Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -176,7 +176,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>GitHub.com Haber Bülteni:</h3>
-    Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -185,7 +185,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Form Bloku:</h3>
-    Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -205,7 +205,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Eklentiler:</h3>
-    Bir düğmeye tıklayarak sitenizin işlevselliğini genişletin. 50.000’in üzerinde eklentiyle hayal ettiğiniz her şeyi sunuyoruz. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Bir düğmeye tıklayarak sitenizin işlevselliğini genişletin. 50.000’in üzerinde eklentiyle hayal ettiğiniz her şeyi sunuyoruz. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -215,7 +215,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Akismet ile Spam Koruması:</h3>
-    Sitenizi profesyonel ve güvenilir kaldığından emin olmak için istenmeyen yorumları önleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Sitenizi profesyonel ve güvenilir kaldığından emin olmak için istenmeyen yorumları önleyin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -226,7 +226,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Jetpack araması:</h3>
-    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -238,21 +238,21 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Ödeme Alma:</h3>
-    Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Kelime Reklamlar:</h3>
-    Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Premium İçerik Bloku:</h3>
-    Ücretli abonelerinize özel ek, premium içerik oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Ücretli abonelerinize özel ek, premium içerik oluşturun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -260,7 +260,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Ücretli Bültenler:</h3>
-    Ücretli abonelerinize e-posta yoluyla premium içerik gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Ücretli abonelerinize e-posta yoluyla premium içerik gönderin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -272,7 +272,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Sınırsız Node Genişliği ve Trafik:</h3>
-    Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -280,7 +280,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>7/24 Uzman Desteği:</h3>
-    Mutluluk Mühendislerimiz tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Mutluluk Mühendislerimiz tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -288,7 +288,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Jetpack Yedekleme ve Geri Yüklemeleri:</h3>
-    Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -300,28 +300,28 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Yüksek Frekanslı PWA’lar:</h3>
-    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>GitHub için Optimize Edilmiş Barındırma:</h3>
-    15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Küresel CDN:</h3>
-    6 kıtaya yayılan 28+ veri merkezimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    6 kıtaya yayılan 28+ veri merkezimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Üstün Nitelikli Görsel Yönetimi:</h3>
-    GitHub anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    GitHub anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -329,7 +329,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Otomatik Geniş Ölçeklendirme:</h3>
-    Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -339,21 +339,21 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>DDoS ve WAF Koruması:</h3>
-    Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Zararlı Yazılım Tarama ve Kaldırma:</h3>
-    Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Hesap Güvenlik Araçları:</h3>
-    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -380,7 +380,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Hesap Güvenlik Araçları:</h3>
-    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -398,14 +398,14 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Gönderi Zamanlama:</h3>
-    Yazılarınızı önceden zamanlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Yazılarınızı önceden zamanlayın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Benzer Yazılar:</h3>
-    Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">skeleton-x</a>
+    Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
