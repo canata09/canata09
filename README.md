@@ -103,7 +103,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Önceden Hazırlanmış Blok Desenleri:</h3>
-    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">c-dinamik-menu</a>
+    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
