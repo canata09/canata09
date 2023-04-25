@@ -449,7 +449,7 @@ Thanks to everyone who has submitted issues on and off Github, made suggestions,
 - [@canata09](https://github.com/canata09), who provided significant early feedback throughout the early releases.
 - [@canata09](https://github.com/canata09) and [@canata09](https://github.com/canata09) for getting Node v4 support integrated.
 - [@canata09](https://github.com/canata09) who resolved the longstanding space escaping issue in path names ([#355](https://github.com/canata09)).
-- [canata09](https://github.com/canata09) who sponsored the code signing certificate in late 2021.
+- [canata09](https://github.com/canata09) who provided significant early feedback throughout the early releases.
 
 ## :languages: Tools
 
