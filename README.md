@@ -69,6 +69,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 	shortcut <reminder> VS Code , Please press to go to a specific line (Ctrl + G)
 	shortcut <reminder> VS Code , Please press to reload window (Ctrl + Shift + P)
 	shortcut <reminder> Chrome  , Please press to jump to the next open tab (Ctrl + Tab)
+	shortcut <reminder> Mac OS  , Please press to show desktop (fn + F11)
   
 
   
