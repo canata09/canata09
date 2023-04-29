@@ -307,8 +307,8 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 </table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
-    <h3>GitHub için Optimize Edilmiş Barındırma:</h3>
-    15 yılı aşkın bir süredir GitHub deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. Bunun üzerinde çalışıyorum <a href="https://t.co/oGqQCM9FPx">x-x</a>
+    <h3>Optimize Edilmiş Barındırma:</h3>
+    Laravel deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. <a href="https://t.co/oGqQCM9FPx">hypertext-laravel-file-system</a>
     <h3></h3>
   </td></tr>
 </table>
