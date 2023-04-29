@@ -197,7 +197,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Hesap Koruması:</h3>
-    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">lite-process,virtual-brutal,conduct-workbox,laravel-engine</a>
+    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -322,7 +322,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Üstün Nitelikli Görsel Yönetimi:</h3>
-    Anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
+    Anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">hypertext-laravel-values</a>
     <h3></h3>
   </td></tr>
 </table>
