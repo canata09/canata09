@@ -417,7 +417,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 
 ## Client-Server Architecture
 
-	![NVM for Windows](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png)
+![NVM for Windows](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png)
 Manage multiple installations of node.js on a Windows computer.
 
 **tl;dr** Similar (not identical) to [nvm](https://github.com/canata09), but for Windows. Has an installer. [Download Now](https://github.com/canata09)!
