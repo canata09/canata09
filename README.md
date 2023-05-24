@@ -80,8 +80,8 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
-    <h3>Güzel Temalar:</h3>
-    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir yüzlerce şablondan seçerek sitenizi başlatın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">b-jump-menu</a>
+    <h3>Güzel Seçenekler:</h3>
+    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir şablondan seçerek açılış sayfanızı başlatın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">b-jump-menu</a>
     <h3></h3>
   </td></tr>
 </table>
