@@ -1,4 +1,4 @@
-<!-- make a webpage with the SUBSCRIBE text-->
+make a webpage with the SUBSCRIBE text
 ```
 <!DOCTYPE html>
 <html>
