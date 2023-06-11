@@ -11,7 +11,7 @@ test the new route by: make a webpage with the SUBSCRIBE text
 </html>
 ```
 ```
-test the new route by
+test the new route by:
 // Todo form component with tailwind classes
 // create todo state
 // create todo state and addTodo function
@@ -26,6 +26,7 @@ test the new route by
 by visiting `
 data()
 ```
+test the new route by:
     // setup is a function that returns an object
     // with the properties we want to track
     // Create a reactive variable
@@ -33,11 +34,13 @@ data()
 by visiting `
     let age = ref(0)
 ```
+test the new route by:
     // Create a computed variable
 ```
 by visiting `
     let agePlusOne = computed(() => age.value + 1)
 ```
+test the new route by:
     // Create a method
 ```
 by visiting `
@@ -45,7 +48,7 @@ by visiting `
         age.value++
     }
 ```
+test the new route by:
     // Return the reactive variables and functions
 ```
 by visiting `return { age, agePlusOne, increment }
-```
