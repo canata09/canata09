@@ -1,4 +1,4 @@
-test the new route by: make a webpage with the SUBSCRIBE text
+In your terminal, run the server with: make a webpage with the SUBSCRIBE text
 ```
 <!DOCTYPE html>
 <html>
