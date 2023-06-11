@@ -1,4 +1,4 @@
-make a webpage with the SUBSCRIBE text
+test the new route by: make a webpage with the SUBSCRIBE text
 ```
 <!DOCTYPE html>
 <html>
@@ -11,6 +11,7 @@ make a webpage with the SUBSCRIBE text
 </html>
 ```
 ```
+test the new route by
 // Todo form component with tailwind classes
 // create todo state
 // create todo state and addTodo function
@@ -20,29 +21,31 @@ make a webpage with the SUBSCRIBE text
 // create a ref for the todo
 // create function addTodo which emits onAdded event
 // make a vertically and horizontally centered div
-
 // Begin by defining the initial state
 ```
+by visiting `
 data()
 ```
     // setup is a function that returns an object
     // with the properties we want to track
-
     // Create a reactive variable
 ```
+by visiting `
     let age = ref(0)
 ```
     // Create a computed variable
 ```
+by visiting `
     let agePlusOne = computed(() => age.value + 1)
 ```
     // Create a method
 ```
+by visiting `
     function increment() {
         age.value++
     }
 ```
     // Return the reactive variables and functions
 ```
-    return { age, agePlusOne, increment }
+by visiting `return { age, agePlusOne, increment }
 ```
