@@ -19,6 +19,10 @@ test the new route by:
 // define props
 // import Todo component
 // create a ref for the todo
+```
+by visiting `
+    const count = ref(0);
+```
 // create function addTodo which emits onAdded event
 // make a vertically and horizontally centered div
 // Begin by defining the initial state
