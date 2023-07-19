@@ -101,7 +101,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Gelişmiş Tasarım Araçları:</h3>
-    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
+    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">b-jump-menu</a>
     <h3></h3>
   </td></tr>
 </table>
