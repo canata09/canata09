@@ -380,8 +380,8 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
   
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
-    <h3>E-posta ile Yaz:</h3>
-    Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">site-content-model</a>
+    <h3>Medya Kanalları ile Entegre:</h3>
+    Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">content-model</a>
     <h3></h3>
   </td></tr>
 </table>
