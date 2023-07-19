@@ -147,17 +147,7 @@ _Can Ata [nvm](https://github.com/canata09) is passionate about frontend develop
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Özel Alan Adı:</h3>
-    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Okuyucu:</h3>
-    Topluluk merkezimiz yoluyla sonraki en büyük hayranlarınız olabilecek diğer benzer düşünen blog yazarları ile bağlantı kurun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
+    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">content-model</a>
     <h3></h3>
   </td></tr>
 </table>
