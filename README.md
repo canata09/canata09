@@ -321,7 +321,7 @@ There are situations where the ability to switch between different versions of N
 
 ## :pray: Elementary Classes
 
-Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. Special thanks to
+Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. 
 
 ## :languages: Tools
 
