@@ -193,6 +193,8 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 ## Client-Server Architecture
 
+<img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png" alt="drawing" style="width:200px;"/>
+
 ![NVM for Windows](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png)
 Manage multiple installations of node.js on a Windows computer.
 
