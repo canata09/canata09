@@ -223,8 +223,8 @@ There are situations where the ability to switch between different versions of N
         <th>Coding Standards</th>
     </tr>
     <tr>
+        <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></a></td>
         <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="80px"/></a></td>
     </tr>
 
   </table>
