@@ -168,34 +168,6 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 </table>
 
 
-> Güvenilirlik<br />
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Sınırsız Bant Genişliği ve Trafik:</h3>
-    Sınırsız Bant Genişliği dahildir, bu da sitenize gelen ziyaretçi sayısında bir sınır olmadığı anlamına gelir. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Uzman Desteği:</h3>
-    Mutluluk Bizlerin tıkandığınız her zaman, her neyi yapmaya çalışıyorsanız cevaplarıyla hazırdır. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Yedekleme ve Geri Yüklemeleri:</h3>
-    Sitenizi belirli bir zamandaki halinden kolaylıkla geri yükleyin veya indirin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
 > Performans<br />
   
   
@@ -251,7 +223,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 ## Client-Server Architecture
 
-<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler</h5>
+<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik </h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
