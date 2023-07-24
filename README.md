@@ -168,33 +168,6 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 </table>
 
 
-> Performans<br />
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Yüksek Frekanslı Uygulamalar:</h3>
-    React yönetim sistemimiz içeriğinizi ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Küresel CDN:</h3>
-    Veri merkezi içeriği ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Otomatik Geniş Ölçeklendirme:</h3>
-    Özel kaynak yönetim sistemimiz otomatik olarak 100 PHP üzerinde işçisiyle ölçeklendirir. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
 > Güvenlik<br />
   
 <table style="background-color:red;padding:6px;border-radius:3px;">
