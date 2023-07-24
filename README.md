@@ -207,7 +207,7 @@ This has always been a node version manager, not an io.js manager, so there is n
 
 There are situations where the ability to switch between different versions of Node.js can be very useful. For example, if you want to test a module you're developing with the latest bleeding edge version without uninstalling the stable version of node, this utility can help.
 
-![Switch between stable and unstable versions.](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/devtools_1.png)
+
 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
