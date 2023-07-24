@@ -136,31 +136,6 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 </table>
 
 
-> Güvenlik<br />
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>DDoS ve WAF Koruması:</h3>
-    Github.com, sitenizin ele geçirme ve saldırı teşebbüslerine karşı güvende olabilmesi için her gün milyonlarca kötü amaçlı isteği engeller. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Zararlı Yazılım Tarama ve Kaldırma:</h3>
-    Otomatik kötü amaçlı yazılım taraması ve tek‑tıklamayla yapılan düzeltmeler sayesinde güvenlik tehditlerinin bir adım önünde olun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Hesap Güvenlik Araçları:</h3>
-    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
 
 ## Client-Server Architecture
 
