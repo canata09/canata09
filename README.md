@@ -268,29 +268,9 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 </table>
 
 
-> Site Yönetimi<br />
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Gönderi Zamanlama:</h3>
-    Yazılarınızı önceden zamanlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Benzer Yazılar:</h3>
-    Önceden okuduklarına dayanarak ziyaretçilere otomatik içerik önerileri sunun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
-
 ## Client-Server Architecture
 
-<h5 align="center">Actual technology options for web publishing</h5>
+<h5 align="center">Actual technology options for web publishing, Site Yönetimi</h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
