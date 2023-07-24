@@ -63,25 +63,8 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
   
   
-> Tasarım ve Düzenleme Araçları<br />
-
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Güzel Seçenekler:</h3>
-    Önceden hazırlanmış, profesyonel tasarımlı, özelleştirilebilir şablondan seçerek açılış sayfanızı başlatın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">b-jump-menu</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Kaydırıcı:</h3>
-    Sayfalarınıza yalnızca önceden hazırlanmış zarif kayan görselleri ekleyerek harika görünen yerleşimler oluşturun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">c-dinamik-carrusel</a>
-    <h3></h3>
-  </td></tr>
-</table>
-    
+> New and Updated Code References <br />
+     
   <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Görev Çubuğu:</h3>
@@ -89,70 +72,9 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
     <h3></h3>
   </td></tr>
 </table>
-  
-  <table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Önceden Hazırlanmış Blok Desenleri:</h3>
-    İçeriğinizi ve medyanızı kolaylıkla düzenlemek, yeniden düzenlemek ve organize etmek için araçlardan yararlanın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">c-dinamik-menu</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Gelişmiş Tasarım Araçları:</h3>
-    Daha geniş bir renk yelpazesi, tipografi, kenarlıklar ve web sitesi CSS’si üzerinde kontrol ile blogunuzun tasarımını özelleştirin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">b-jump-menu</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Fotoğraf Galerisi:</h3>
-    Depolama alanınız dolmadan tasarımcılara layık fotoğraf galerileri oluşturun ve daha fazlasını ekleyin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">c-dinamik-popup</a>
-    <h3></h3>
-  </td></tr>
-</table>
 
-> Pazarlama<br />
+> Best Practices for Coding Standards <br />
   
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Bildirimler:</h3>
-    Sitenize kolaylıkla yeni bir mesaj, güncelleme, sosyal medya gönderisi vb. hakkında bilgilendirmek için uyarı oluşturun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">e-form-zorunlu-alanlar</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>SEO Araçları:</h3>
-    Siteniz güçlü, yerleşik SEO araçları ile daha hızlı bulunsun ve Yoast ile Rank Math dahil olmak üzere premium eklentilere erişim sağlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">site-content-model</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Medya Kanalları İle Pazarlama:</h3>
-    En esnek web sitesi oluşturma platformunun gücünü açığa çıkarın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">content-model</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Özel Alan Adı:</h3>
-    Hatırlaması ve paylaşması kolay kişiselleştirilmiş bir çevrimiçi adres edinin, ücretli bir yıllık paket seçtiğinizde ilk yılınızın keyfini ücretsiz olarak çıkarın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">content-model</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Haber Bülteni:</h3>
@@ -284,24 +206,11 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
     <h3></h3>
   </td></tr>
 </table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Optimize Edilmiş Barındırma:</h3>
-    Laravel deneyimini optimize etmeye kendini %100 adamış, yönetilen bir barındırma hizmeti. <a href="https://github.com/canata09/">hypertext-laravel-file-system</a>
-    <h3></h3>
-  </td></tr>
-</table>
+
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Küresel CDN:</h3>
     Veri merkezi içeriği ziyaretçilerinize olabildiğince yakınlaştırır, böylece siteniz her zaman ışık hızında olur. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Üstün Nitelikli Görsel Yönetimi:</h3>
-    Anında küçük resimler oluşturur ve durağan haldeyken verileri sıkıştırır. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">hypertext-laravel-values</a>
     <h3></h3>
   </td></tr>
 </table>
@@ -340,16 +249,8 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 
 > İstatistikler ve Bilgiler<br />
+
   
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Pagination Analytics:</h3>
-    Tek bir kod satırı yazmadan sitenize insanların nasıl ve neden geldiğiyle ilgili detaylı verilere erişim sağlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">summary-main</a>
-    <h3></h3>
-  </td></tr>
-</table>
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>İlerici İstatistikleri:</h3>
@@ -357,6 +258,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
     <h3></h3>
   </td></tr>
 </table>
+
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Hesap Güvenlik Araçları:</h3>
@@ -367,14 +269,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 
 > Site Yönetimi<br />
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Medya Kanalları ile Entegre:</h3>
-    Bir e-posta hızıyla göndererek hareket halindeyken blog yazılarınızı yayınlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">content-model</a>
-    <h3></h3>
-  </td></tr>
-</table>
+
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Gönderi Zamanlama:</h3>
@@ -382,6 +277,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
     <h3></h3>
   </td></tr>
 </table>
+
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Benzer Yazılar:</h3>
