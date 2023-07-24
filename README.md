@@ -223,7 +223,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 ## Client-Server Architecture
 
-<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik </h5>
+<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik, Performans </h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
