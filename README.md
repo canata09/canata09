@@ -193,19 +193,19 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 ## Client-Server Architecture
 
+<div align="center">
+  <table cellpadding="5" cellspacing="" border="0" align="center">
+    <tr>
+        <th>Manage multiple installations </th>
+        <th>of a Windows computer</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png" width="110px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react-redux.jpg" width="80px"/></a></td>
+    </tr>
 
-
-![NVM for Windows](https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png)
-Manage multiple installations of node.js on a Windows computer.
-
-**tl;dr** Similar (not identical) to [nvm](https://github.com/canata09), but for Windows. Has an installer. [Download Now](https://github.com/canata09)!
-
-This has always been a node version manager, not an io.js manager, so there is no back-support for io.js. Node 4+ is supported. Remember when running `nvm install` or `nvm use`, Windows usually requires administrative rights (to create symlinks).
-
-
-<img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react-redux.jpg" alt="drawing" style="width:200px;"/>
-
-There are situations where the ability to switch between different versions of Node.js can be very useful. For example, if you want to test a module you're developing with the latest bleeding edge version without uninstalling the stable version of node, this utility can help.
+  </table>
+</div>
 
 
 <br/>
