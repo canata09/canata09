@@ -87,16 +87,6 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
   
 
   
-  
-> New and Updated Code References <br />
-     
-  <table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Görev Çubuğu:</h3>
-    Sitenizin sağ veya sol tarafında çeşitli bilgi biçimlerini kontrol edin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
 
 <br/>
 
