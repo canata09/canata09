@@ -208,25 +208,18 @@ This has always been a node version manager, not an io.js manager, so there is n
 There are situations where the ability to switch between different versions of Node.js can be very useful. For example, if you want to test a module you're developing with the latest bleeding edge version without uninstalling the stable version of node, this utility can help.
 
 
-
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></p>
-
 <br/>
   
-  <div align="center">
+<div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
     <tr>
-        <th>New and Updated Code References</th>
-        <th>Coding Standards</th>
+        <th>Stats:</th>
+        <th>Current Streak:</th>
     </tr>
     <tr>
         <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></a></td>
         <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></a></td>
     </tr>
-
   </table>
 </div>
   
