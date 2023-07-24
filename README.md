@@ -222,18 +222,6 @@ There are situations where the ability to switch between different versions of N
     </tr>
   </table>
 </div>
-  
-  
-### Installation & Upgrades
-
-<div align="center">
-  <table cellpadding="5" cellspacing="" border="0" align="center">
-    <tr>
-        <td><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canata09" alt="canata09" /></a></td>
-    </tr>
-  </table>
-</div>
-<p align="left">  </p>
 
 ## :pray: Elementary Classes
 
