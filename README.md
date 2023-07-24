@@ -178,7 +178,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
         <th>REST API</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="110px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="90px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/magnifying-glass.png" width="80px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/pen.png" width="80px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/world.png" width="80px"/></a></td>
