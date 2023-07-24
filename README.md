@@ -47,7 +47,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 <br/>
 
 
-<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik, Performans, Genişletilebilirlik, Para Kazanma Araçları </h5>
+<h5 align="center">Actual technology options for web publishing, Site Management, Statistics and Information, Reliability, Performance, Extensibility, Monetization Tools </h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
