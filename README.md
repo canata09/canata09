@@ -248,29 +248,10 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 </table>
 
 
-> İstatistikler ve Bilgiler<br />
-
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>İlerici İstatistikleri:</h3>
-    Mobiliteyi gönderdiğiniz anda uygulamanızın trafiğini ve etkileşimi izleyin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Hesap Güvenlik Araçları:</h3>
-    İki faktörlü kimlik doğrulama ve güvenliği ihlal edilmiş şifre taramasıyla kullanıcı hesaplarınızın güvenliğini sağlayın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
 
 ## Client-Server Architecture
 
-<h5 align="center">Actual technology options for web publishing, Site Yönetimi</h5>
+<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler</h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
