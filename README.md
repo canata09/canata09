@@ -200,7 +200,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
         <th>of a Windows computer</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png" width="110px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png" width="310px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react-redux.jpg" width="380px"/></a></td>
     </tr>
 
