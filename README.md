@@ -44,9 +44,34 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 <br/>
 	
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
+<br/>
 
 
+<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik, Performans, Genişletilebilirlik, Para Kazanma Araçları </h5>
 
+<div align="center">
+  <table cellpadding="5" cellspacing="" border="0" align="center">
+    <tr>
+        <th>Code References</th>
+        <th>Coding Standards</th>
+        <th>Block Editor</th>
+        <th>Common APIs</th>
+        <th>Themes</th>
+        <th>Plugins</th>
+        <th>REST API</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="90px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/magnifying-glass.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/pen.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/world.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/theme.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/plug.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/api.png" width="80px"/></a></td>
+    </tr>
+
+  </table>
+</div>
 <br/>
   
 ### Interview
@@ -73,97 +98,8 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
   </td></tr>
 </table>
 
-> Best Practices for Coding Standards <br />
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Haber Bülteni:</h3>
-    Yeni yazılarınızı otomatik olarak bir e-posta haber bülteni şeklinde gönderin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
+<br/>
 
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Form Bloku:</h3>
-    Sitenize kolaylıkla bir iletişim, randevu, etkinlik kaydı veya geri bildirim formu ekleyin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Kullanıcı araması:</h3>
-    En fazla etkileşimde bulunan ziyaretçilerinize yüksek kaliteli, alakalı arama sonuçları teslim edin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-  
-
-> Para Kazanma Araçları<br />
-  
-  
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Ödeme Alma:</h3>
-    Ürünler ve hizmetlerden, üyelikler ve bağışlara kadar neredeyse her şey için ödeme alın. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Yazılı Reklamlar:</h3>
-    Sitenizi Google AdSense ve daha fazlasını içeren en büyük reklam yayıncılarıyla bağlayarak reklam geliri elde edin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Premium İçerik Bloku:</h3>
-    Ücretli abonelerinize özel ek, premium içerik oluşturun. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-<table style="background-color:red;padding:6px;border-radius:3px;">
-  <tr><td>
-    <h3>Ücretli Bültenler:</h3>
-    Ücretli abonelerinize e-posta yoluyla premium içerik gönderin. Bunun üzerinde çalışıyorum <a href="https://github.com/canata09/">x-x</a>
-    <h3></h3>
-  </td></tr>
-</table>
-
-
-
-## Client-Server Architecture
-
-<h5 align="center">Actual technology options for web publishing, Site Yönetimi, İstatistikler ve Bilgiler, Güvenilirlik, Performans, Genişletilebilirlik </h5>
-
-<div align="center">
-  <table cellpadding="5" cellspacing="" border="0" align="center">
-    <tr>
-        <th>Code References</th>
-        <th>Coding Standards</th>
-        <th>Block Editor</th>
-        <th>Common APIs</th>
-        <th>Themes</th>
-        <th>Plugins</th>
-        <th>REST API</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="90px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/magnifying-glass.png" width="80px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/pen.png" width="80px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/world.png" width="80px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/theme.png" width="80px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/plug.png" width="80px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/api.png" width="80px"/></a></td>
-    </tr>
-
-  </table>
-</div>
 
 
 ## Client-Server Architecture
