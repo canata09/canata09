@@ -285,8 +285,36 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
     <h3></h3>
   </td></tr>
 </table>
-  
 
+
+
+## Client-Server Architecture
+
+<h5 align="center">Actual technology options for web publishing</h5>
+
+<div align="center">
+  <table cellpadding="5" cellspacing="" border="0" align="center">
+    <tr>
+        <th>Code References</th>
+        <th>Coding Standards</th>
+        <th>Block Editor</th>
+        <th>Common APIs</th>
+        <th>Themes</th>
+        <th>Plugins</th>
+        <th>REST API</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="110px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="80px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="70px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="100px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="160px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="130px"/></a></td>
+        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="130px"/></a></td>
+    </tr>
+
+  </table>
+</div>
 
 
 ## Client-Server Architecture
