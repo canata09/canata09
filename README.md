@@ -35,7 +35,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" width="160px"/></a></td>
       <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AMP_logo_-_Brand-Blue.png/800px-AMP_logo_-_Brand-Blue.png" width="130px"/></a></td>
-      <td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="130px"/></a></td>
+      <td><a href="https://github.com/canata09"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="130px"/></a></td>
     </tr>
 
   </table>
@@ -93,6 +93,9 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 
 
 ## Client-Server Architecture
+
+A term that encompasses your local environment for JavaScript development to create plugins and tools to contribute to WordPress and the Gutenberg project.
+- Node/NPM Development Tools - WordPress Development Site - Code Editor
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
