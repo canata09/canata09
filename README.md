@@ -28,6 +28,15 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 Dear [Customer Name],
 
 We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
+
+## Our services:
+
+- 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
+- 🚀 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
+- 🚀 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
+- 🚀 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
+
+
 </details>
 
 <h5 align="center">Actual technology options for web publishing</h5>
