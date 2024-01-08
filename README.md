@@ -22,7 +22,13 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
   
 </div>
 
+<details>
+<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
 
+Dear [Customer Name],
+
+We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
+</details>
 
 <h5 align="center">Actual technology options for web publishing</h5>
 
