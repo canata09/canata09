@@ -22,23 +22,6 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
   
 </div>
 
-<details>
-<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
-
-Dear [Customer Name],
-
-We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
-
-## Our services:
-
-- 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
-- 🚀 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
-- 🚀 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
-- 🚀 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
-
-
-</details>
-
 <h5 align="center">Actual technology options for web publishing</h5>
 
 <div align="center">
@@ -60,6 +43,37 @@ We would like to share with you the details about our professional web design an
 <h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 <br/>
 
+<details>
+<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
+
+Dear [Customer Name],
+
+We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
+
+## Our services:
+
+- 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
+- 🚀 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
+- 🚀 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
+- 🚀 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
+
+## Benefits:
+
+Getting started with the XYZ Plugin is a breeze:
+
+1. A chance to increase customer confidence by achieving a more professional online appearance.
+2. Opportunity to increase customer satisfaction with a user-friendly and modern website.
+3. Opportunity to provide greater accessibility by ranking higher in search engines.
+
+## Our offer:
+
+We offer solutions that suit your company's needs with our specially prepared packages. You can contact us to discuss our detailed offer and create a special plan for you.
+
+Remember, your success is our priority. Please contact us for more information.
+
+Kind regards.
+
+</details>
 
 <h5 align="center">Actual technology options for web publishing, Site Management, Statistics and Information, Reliability, Performance, Extensibility, Monetization Tools </h5>
 
