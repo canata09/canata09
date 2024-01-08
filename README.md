@@ -9,7 +9,7 @@
 <details>
 <summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
 
-_[Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
+_[Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em><em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
 </details>
 
 [![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/canata09) 
