@@ -46,7 +46,7 @@ _[Can Ata](https://github.com/canata09) is passionate about frontend development
 <details>
 <summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
 
-Dear [Customer Name],
+Dear Customer,
 
 We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
 
