@@ -105,11 +105,10 @@ Kind regards.
 
 
 
-## It is an accepted fact that "Get Product Query" is used in Front-End Design to Resolve Page Performance Errors in E-commerce.
+## It is an accepted fact that "Get Product Query" is used in Front-End Design to Resolve Page Performance Issues in E-commerce.
 
-We should be well aware of the benefits of the Archive format provided by the application and use this format in collective grid display pages.
+We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
 
-- We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
 - If the course of the program is to reach "Early Entry Dates" on a user account basis, you should prefer to use the short form software "Shortcode".
 
 <div align="center">
