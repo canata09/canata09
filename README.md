@@ -128,6 +128,18 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
 
 <br/>
 
+- 🚀 **Input Tools:**  v1 (Multiple Select)
+- 🚀 **Location:**  Drag-row-move animation.
+- 🚀 **Programming:**  Constantly Working.
+- 🚀 **Input Tools:**  v1.1 (Multiple Select)
+- 🚀 **Script:**  One option in the input tool.
+- [
+- ## Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
+- [
+- []
+
+<br/>
+
 ## :languages: Tools
 
 <p align="left"> 
