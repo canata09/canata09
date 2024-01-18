@@ -53,9 +53,9 @@ We would like to share with you the details about our professional web design an
 ## Our services:
 
 - 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
-- 🚀 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
-- 🚀 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
-- 🚀 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
+- 🎨 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
+- 📦 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
+- 📊 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
 
 ## Benefits:
 
@@ -128,11 +128,11 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
 
 <br/>
 
-- 🚀 **Input Tools:**  v1 (Multiple Select)
+- 📦 **Input Tools:**  v1 (Multiple Select)
 - 🚀 **Location:**  Drag-row-move animation.
-- 🚀 **Programming:**  Constantly Working.
-- 🚀 **Input Tools:**  v1.1 (Multiple Select)
-- 🚀 **Script:**  One option in the input tool.
+- 🎨 **Programming:**  Constantly Working.
+- 📦 **Input Tools:**  v1.1 (Multiple Select)
+- 📊 **Script:**  One option in the input tool.
 - [ Ensuring Admin Ajax installation with Rest Api and Js
 - #### Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
 - [ Ensuring seamless integration of functions such as licensing and remote updating
