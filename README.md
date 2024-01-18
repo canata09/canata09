@@ -134,7 +134,7 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
 - 🚀 **Input Tools:**  v1.1 (Multiple Select)
 - 🚀 **Script:**  One option in the input tool.
 - [
-- ## Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
+- #### Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
 - [
 - []
 
