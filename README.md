@@ -133,9 +133,9 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
 - 🚀 **Programming:**  Constantly Working.
 - 🚀 **Input Tools:**  v1.1 (Multiple Select)
 - 🚀 **Script:**  One option in the input tool.
-- [
+- [ Ensuring Admin Ajax installation with Rest Api and Js
 - #### Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
-- [
+- [ Ensuring seamless integration of functions such as licensing and remote updating
 - []
 
 <br/>
