@@ -75,7 +75,7 @@ Kind regards.
 
 </details>
 
-<h5 align="center">Actual technology options for web publishing, Site Management, Statistics and Information, Reliability, Performance, Extensibility, Monetization Tools </h5>
+<h5 align="center">Actual technology options for web publishing, Responsive Design, Clear and Comprehensible Product Information, Site Management, Statistics and Information, Reliability, Performance, Extensibility, Monetization Tools </h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
