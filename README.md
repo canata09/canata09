@@ -1,7 +1,42 @@
 <h1 align="left">Hi 👋, I'm Can Ata</h1>
-<h3 align="left">Results-oriented Web Application Development</h3>
+
+<details>
+<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
+
+Dear Visitor,
+
+We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
+
+## Our services:
+
+- 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
+- 🎨 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
+- 📦 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
+- 📊 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
+
+## Benefits:
+
+Getting started with the Developer Can is a breeze:
+
+1. A chance to increase customer confidence by achieving a more professional online appearance.
+2. Opportunity to increase customer satisfaction with a user-friendly and modern website.
+3. Opportunity to provide greater accessibility by ranking higher in search engines.
+
+## Our offer:
+
+We offer solutions that suit your company's needs with our specially prepared packages. You can contact us to discuss our detailed offer and create a special plan for you.
+
+Remember, your success is our priority. Please contact us for more information.
+
+Kind regards.
+
+</details>
+
+<h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
 
 <div align="left">
+
+<h5 align="center">Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration </h5>
 
 <div align="center">
 
@@ -12,12 +47,7 @@
 - [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
 </details>
 
-[![Download Now](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/canata09) 
-[![Preview](https://img.shields.io/github/last-commit/canata09/canata09)](https://github.com/canata09) 
-[![Preview](https://img.shields.io/github/forks/canata09/canata09?style=social)](https://github.com/canata09) 
-[![Preview](https://img.shields.io/github/followers/canata09?style=social)](https://github.com/canata09) 
-[![Preview](https://img.shields.io/badge/-Discuss-blue)](https://github.com/canata09) 
-[![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
+
   
   
 </div>
@@ -40,42 +70,7 @@
 	
 <br/>
 	
-<h5 align="left">Results-oriented Web Application Developer with significant training and experience in website design and layout and design of Web applications, experience development at all stages of usability testing, planning and implementing performance issues, cross-browser, responsive user interface, modern android development, android sdk's version controls, prototypes, design - features, constructive coding and bug fixing, troubleshooting existing applications.</h5>
-<br/>
 
-<details>
-<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
-
-Dear Customer,
-
-We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
-
-## Our services:
-
-- 🚀 **Customized Web Design:**  We offer an original and modern web design that reflects your company's unique identity.
-- 🎨 **Revision of Existing Pages:**  We review your existing pages and make adjustments that will improve the user experience.
-- 📦 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
-- 📊 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
-
-## Benefits:
-
-Getting started with the XYZ Plugin is a breeze:
-
-1. A chance to increase customer confidence by achieving a more professional online appearance.
-2. Opportunity to increase customer satisfaction with a user-friendly and modern website.
-3. Opportunity to provide greater accessibility by ranking higher in search engines.
-
-## Our offer:
-
-We offer solutions that suit your company's needs with our specially prepared packages. You can contact us to discuss our detailed offer and create a special plan for you.
-
-Remember, your success is our priority. Please contact us for more information.
-
-Kind regards.
-
-</details>
-
-<h5 align="center">Actual technology options for web publishing, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Statistics and Information, Reliability, Performance, Extensibility, Monetization Tools </h5>
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
@@ -125,13 +120,20 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
   </table>
 </div>
 
+<div align="center">
+
+[![Preview](https://img.shields.io/github/last-commit/canata09/canata09)](https://github.com/canata09) 
+[![Preview](https://img.shields.io/github/followers/canata09?style=social)](https://github.com/canata09) 
+[![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
+
+</div>
 
 <br/>
 
 - 📦 **Input Tools:**  v1 (Multiple Select)
 - 🚀 **Location:**  Drag-row-move animation.
 - 🎨 **Programming:**  Constantly Working.
-- 📦 **Input Tools:**  v1.1 (Multiple Select)
+- 📦 **Query Tools:**  v1 (Multiple Select)
 - 📊 **Script:**  One option in the input tool.
 - [ Ensuring Admin Ajax installation with Rest Api and Js
 - #### Create Transcript: Outlining the UI/UX design of the plugin ( ex: Two points of a line )
