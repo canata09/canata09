@@ -77,7 +77,6 @@ Kind regards.
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
     <tr>
-        <th>Code References</th>
         <th>Coding Standards</th>
         <th>Block Editor</th>
         <th>Common APIs</th>
@@ -86,7 +85,6 @@ Kind regards.
         <th>REST API</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/programming-code-signs.png" width="50px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/magnifying-glass.png" width="40px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/pen.png" width="40px"/></a></td>
         <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/world.png" width="40px"/></a></td>
