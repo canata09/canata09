@@ -63,11 +63,9 @@ Kind regards.
     <tr>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="80px"/></a></td>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="60px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" width="50px"/></a></td>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"/></a></td>
 	<td><a href="https://github.com/canata09"><img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" width="160px"/></a></td>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" width="70px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AMP_logo_-_Brand-Blue.png/800px-AMP_logo_-_Brand-Blue.png" width="130px"/></a></td>
     </tr>
   </table>
 </div>
