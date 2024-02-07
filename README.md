@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Can Ata</h1>
 
-<h5 align="left">Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</h5>
+<h4 align="left">Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</h4>
 
 <div align="left">
 
-<h5 align="center">Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration </h5>
+<h4 align="center">Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration </h4>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
   
 </div>
 
-<h5 align="center">Actual technology options for web publishing</h5>
+<h4 align="center">Actual technology options for web publishing</h4>
 
 <div align="center">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
