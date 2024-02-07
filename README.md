@@ -61,6 +61,13 @@
 </div>
 <br/>
 
+<div align="center">
+
+[![Preview](https://img.shields.io/github/last-commit/canata09/canata09)](https://github.com/canata09) 
+[![Preview](https://img.shields.io/github/followers/canata09?style=social)](https://github.com/canata09) 
+[![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
+
+</div>
 
 <details>
 <summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
@@ -104,31 +111,6 @@ We should be well aware of the benefits of the "Archive & Shop" format provided 
 
 - If the course of the program is to reach "Early Entry Dates" on a user account basis, you should prefer to use the short form software "Shortcode".
 
-<div align="center">
-  <table cellpadding="5" cellspacing="" border="0" align="center">
-    <tr>
-        <th>Manage multiple installations </th>
-        <th>of a Windows computer</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/Client-server-model.svg.png" width="310px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/images/react-redux.jpg" width="380px"/></a></td>
-    </tr>
-
-  </table>
-</div>
-
-<div align="center">
-
-[![Preview](https://img.shields.io/github/last-commit/canata09/canata09)](https://github.com/canata09) 
-[![Preview](https://img.shields.io/github/followers/canata09?style=social)](https://github.com/canata09) 
-[![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
-
-</div>
-
-<br/>
-
-## :languages: Tools
 
 <br/>
 
