@@ -100,7 +100,7 @@ Kind regards.
 
 
 
-## It is an accepted fact that "Get Product Query" is used in Front-End Design to Resolve Page Performance Issues in E-commerce.
+### It is an accepted fact that "Get Product Query" is used in Front-End Design to Resolve Page Performance Issues in E-commerce.
 
 We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
 
