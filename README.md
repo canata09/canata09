@@ -1,28 +1,16 @@
-<h1 align="left">Hi 👋, I'm Can Ata</h1>
+<table>
+  <tr>
+    <td><img src="static/plugin_icon.png" alt="Icon" width="50"></td>
+    <td>
+      <h1>Hi 👋, I'm Can Ata</h1>
+      <p>Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</p>
+    </td>
+  </tr>
+</table>
 
-<h4 align="left">Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</h4>
+## Actual technology options for web publishing
 
 <div align="left">
-
-<h4 align="center">Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration </h4>
-
-<div align="center">
-
-
-<details>
-<summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
-
-- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
-</details>
-
-
-  
-  
-</div>
-
-<h4 align="center">Actual technology options for web publishing</h4>
-
-<div align="center">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
 	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="80px"/></a></td>
@@ -35,31 +23,23 @@
 </div>
 	
 <br/>
-	
+
+## Overview
+
+<details>
+<summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
+
+- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
+</details>
+
+Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration
 
 
-<div align="center">
-  <table cellpadding="5" cellspacing="" border="0" align="center">
-    <tr>
-        <th>Coding Standards</th>
-        <th>Block Editor</th>
-        <th>Common APIs</th>
-        <th>Themes</th>
-        <th>Plugins</th>
-        <th>REST API</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/magnifying-glass.png" width="40px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/pen.png" width="40px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/world.png" width="40px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/theme.png" width="40px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/plug.png" width="40px"/></a></td>
-        <td><a href="https://github.com/canata09"><img src="https://github.com/canata09/canata09/blob/main/staticassets/raw/master/icon/api.png" width="40px"/></a></td>
-    </tr>
 
-  </table>
-</div>
-<br/>
+
+
+
+## Instructions
 
 <div align="center">
 
@@ -68,6 +48,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=canata09&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/canata09) 
 
 </div>
+
 
 <details>
 <summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
@@ -105,14 +86,16 @@ Kind regards.
 
 </details>
 
-### An accepted fact is the "Query Product" method is used in Front-End Design to Solve Page Performance Problems in E-commerce.
+### Sub-section 1
 
-We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
-
+- An accepted fact is the "Query Product" method is used in Front-End Design to Solve Page Performance Problems in E-commerce.
+- We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
 - If the course of the program is to reach "Early Entry Dates" on a user account basis, you should prefer to use the short form software "Shortcode".
 
 
 <br/>
+
+### Sub-section 2
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
