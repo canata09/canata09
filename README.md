@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="staticassets/raw/master/images/plugin_icon.png" alt="Icon" width="50"></td>
+    <td><img src="staticassets/raw/master/images/plugin_icon.jpg" alt="Icon" width="50"></td>
     <td>
       <h1>Hi 👋, I'm Can Ata</h1>
       <p>Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</p>
