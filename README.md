@@ -86,7 +86,7 @@ Kind regards.
 
 </details>
 
-### Sub-section 1
+### Hint
 
 - An accepted fact is the "Query Product" method is used in Front-End Design to Solve Page Performance Problems in E-commerce.
 - We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
@@ -95,7 +95,7 @@ Kind regards.
 
 <br/>
 
-### Sub-section 2
+### Stats
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
