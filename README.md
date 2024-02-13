@@ -91,6 +91,7 @@ Kind regards.
 - An accepted fact is the "Query Product" method is used in Front-End Design to Solve Page Performance Problems in E-commerce.
 - We should be well aware of the benefits of the "Archive & Shop" format provided by the application and use this format in mass grid display pages.
 - If the course of the program is to reach "Early Entry Dates" on a user account basis, you should prefer to use the short form software "Shortcode".
+- To add a front-end login page template, steps such as creating a new page template, creating a new page and adding a homepage link must be followed.
 
 
 <br/>
