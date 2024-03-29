@@ -93,6 +93,9 @@ Kind regards.
 - If the course of the program is to reach "Early Entry Dates" on a user account basis, you should prefer to use the short form software "Shortcode".
 - To add a front-end login page template, steps such as creating a new page template, creating a new page and adding a homepage link must be followed.
 
+### Sub-section 1
+
+- Block developers should take on the "arrow function" detail and focus on editorScript development.
 
 <br/>
 
