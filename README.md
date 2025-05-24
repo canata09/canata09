@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="staticassets/raw/master/images/plugin_icon.jpg"  />
+</div>
+
 <table>
   <tr>
     <td><img src="staticassets/raw/master/images/plugin_icon.jpg" alt="Icon" width="150"></td>
