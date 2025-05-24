@@ -6,15 +6,16 @@
 
 <p align="left">Hi 👋, I'm Can Ata from Turkey</p>
 
-<table>
-  <tr>
-    <td><img src="staticassets/raw/master/images/plugin_icon.jpg" alt="Icon" width="150"></td>
-    <td>
-      <h1>Hi 👋, I'm Can Ata</h1>
-      <p>Results-oriented Interface Developer with coding expertise and significant training and experience in layout and design of Web applications, development experience in all phases of usability testing, planning and implementation of performance issues, cross-browser, responsive user interface.</p>
-    </td>
-  </tr>
-</table>
+
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left"><br>- 🔭 I'm working as ReactJS Developer, Frontend Developer, NodeJS Developer, Javascript Developer, Php Developer.<br>- 📚 I'm currently providing end-to-end product delivery with a success-oriented approach, overseeing all stages from market research to the point where the product reaches the end user.<br>- ⚡ In my work time I code and design user experience-focused web components with custom-made UI/UX designs.</p>
+
 
 ## Actual technology options for web publishing
 
@@ -96,7 +97,7 @@ Kind regards.
 
 <br/>
 
-### Stats
+### My Stats
 
 <div align="center">
   <table cellpadding="5" cellspacing="" border="0" align="center">
