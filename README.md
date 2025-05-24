@@ -2,6 +2,10 @@
   <img height="150" src="staticassets/raw/master/images/plugin_icon.jpg"  />
 </div>
 
+## 
+
+<p align="left">Hi 👋, I'm Can Ata from Turkey</p>
+
 <table>
   <tr>
     <td><img src="staticassets/raw/master/images/plugin_icon.jpg" alt="Icon" width="150"></td>
