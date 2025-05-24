@@ -11,7 +11,7 @@
 <p align="left"><br>- 🔭 I'm working as ReactJS Developer, Frontend Developer, NodeJS Developer, Javascript Developer, Php Developer.<br>- 📚 I'm currently providing end-to-end product delivery with a success-oriented approach, overseeing all stages from market research to the point where the product reaches the end user.<br>- ⚡ In my work time I code and design user experience-focused web components with custom-made UI/UX designs.</p>
 
 
-## Actual technology options for web publishing
+## Actual technology
 
 <div align="left">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
