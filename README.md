@@ -30,12 +30,12 @@
 ## Overview
 
 <details>
-<summary><b>Topic of developer sectors and industries: Computer Technologies, Internet and Telecom</b> (expand for details)</summary>
+<summary>expand for contact information</summary>
 
-- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em>.
+- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://can-ata-portfoy.vercel.app/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em> , <em><a href="https://behance.net/canata3">Behance</a></em>.
 </details>
 
-Stepping into the field of software development with successful metrics in Content Management, Responsive Design, Clear and Comprehensible Product Information, Visual Content, Filtering and Sorting Options, User Comments and Ratings, Search Engine Optimization, Fast Page Loading, A/B Tests, Security and Privacy Information and Social Media Integration
+Cpanel, Plesk panel, shared and WHM hosting, Domain, DNS, Mail Server issues, WordPress, MySQL Database, CSS3, Frontend technologies, NodeJS, ES6, JavaScript, React.js, Vue.js Working with TypeScript, HTML5 and CSS3, Plugin development, API, jQuery, JSON, and XML data manipulation, Authentication protocol installation, SEO, Version Control, Web graphic design
 
 
 
