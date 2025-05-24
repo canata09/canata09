@@ -6,13 +6,7 @@
 
 <p align="left">Hi 👋, I'm Can Ata from Turkey</p>
 
-
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
+## About Me
 
 <p align="left"><br>- 🔭 I'm working as ReactJS Developer, Frontend Developer, NodeJS Developer, Javascript Developer, Php Developer.<br>- 📚 I'm currently providing end-to-end product delivery with a success-oriented approach, overseeing all stages from market research to the point where the product reaches the end user.<br>- ⚡ In my work time I code and design user experience-focused web components with custom-made UI/UX designs.</p>
 
@@ -58,42 +52,8 @@ Stepping into the field of software development with successful metrics in Conte
 
 </div>
 
+<p align="left">Blog management, Data management and SEO management work with Web Design Sales and Marketing</p>
 
-<details>
-<summary><b>Web Design and Page Revision Offer</b> (expand for details)</summary>
-
-Dear Visitor,
-
-We would like to share with you the details about our professional web design and page revision service that we offer to strengthen your company's digital presence and make your online presence more effective.
-
-## Our services:
-
-- 📊 **Mobile Compatible Design:**  We offer responsive designs that will perform perfectly on mobile devices.
-- 🚀 **Clear and Comprehensible Product Information:**  We offer an original and modern web design that reflects your company's unique identity.
-- 🎨 **Visual Content:**  We review your existing pages and make adjustments that will improve the user experience.
-- 🚀 **Filtering and Sorting Options:**  We offer an original and modern web design that reflects your company's unique identity.
-- 🎨 **User Comments and Ratings:**  We review your existing pages and make adjustments that will improve the user experience.
-- 📦 **SEO Compatible Improvements:**  We provide SEO-focused improvements to make you more visible in search engines.
-- 📦 **Fast Page Loading, A/B Tests:**  We provide SEO-focused improvements to make you more visible in search engines.
-- 📊 **Security and Privacy Information and Social Media Integration:**  We offer responsive designs that will perform perfectly on mobile devices.
-
-## Benefits:
-
-Getting started with the Developer Can is a breeze:
-
-1. A chance to increase customer confidence by achieving a more professional online appearance.
-2. Opportunity to increase customer satisfaction with a user-friendly and modern website.
-3. Opportunity to provide greater accessibility by ranking higher in search engines.
-
-## Our offer:
-
-We offer solutions that suit your company's needs with our specially prepared packages. You can contact us to discuss our detailed offer and create a special plan for you.
-
-Remember, your success is our priority. Please contact us for more information.
-
-Kind regards.
-
-</details>
 
 <br/>
 
