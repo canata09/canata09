@@ -57,17 +57,4 @@ Cpanel, Plesk panel, shared and WHM hosting, Domain, DNS, Mail Server issues, Wo
 
 <br/>
 
-### My Stats
 
-<div align="center">
-  <table cellpadding="5" cellspacing="" border="0" align="center">
-    <tr>
-        <th>Stats:</th>
-        <th>Current Streak:</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-stats.vercel.app/api?username=canata09&show_icons=true&locale=en" alt="canata09" /></a></td>
-        <td><a href="https://github.com/canata09"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canata09&" alt="canata09" /></a></td>
-    </tr>
-  </table>
-</div>
