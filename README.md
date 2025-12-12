@@ -32,7 +32,7 @@
 <details>
 <summary>expand for contact information</summary>
 
-- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://canata09.github.io/portfoy/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em> , <em><a href="https://behance.net/canata3">Behance</a></em>.
+- [Can Ata](https://github.com/canata09) is passionate about frontend development in Turkey, you can contact the developer on <em><a href="https://canata09.github.io/portfoy/">Portfolio</a></em> , <em><a href="https://linkedin.com/in/canataweb">LinkedIn</a></em> , <em><a href="https://behance.net/canata3">Behance</a></em> , <em><a href="https://medium.com/@canata09074">Medium</a></em> , <em><a href="https://www.youtube.com/@cyberthicist">Youtube</a></em>.
 </details>
 
 Cpanel, Plesk panel, shared and WHM hosting, Domain, DNS, Mail Server issues, WordPress, MySQL Database, CSS3, Frontend technologies, NodeJS, ES6, JavaScript, React.js, Vue.js Working with TypeScript, HTML5 and CSS3, Plugin development, API, jQuery, JSON, and XML data manipulation, Authentication protocol installation, SEO, Version Control, Web graphic design
