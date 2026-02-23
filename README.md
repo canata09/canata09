@@ -16,11 +16,11 @@
 <div align="left">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="80px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="60px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" width="160px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" width="70px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" width="80px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/r/14/react_800.png" width="60px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/p/77/php_800.png" width="100px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/w/84/wordpress-icon_800.png" width="160px"/></a></td>
+	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/j/9/javascript_800.png" width="70px"/></a></td>
     </tr>
   </table>
 </div>
