@@ -16,11 +16,11 @@
 <div align="left">
   <table cellpadding="5" cellspacing="0" border="0" align="center">
     <tr>
-	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" width="80px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/r/14/react_800.png" width="60px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/p/77/php_800.png" width="100px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/w/84/wordpress-icon_800.png" width="160px"/></a></td>
-	<td><a href="https://github.com/canata09"><img src="https://static.cdnlogo.com/logos/j/9/javascript_800.png" width="70px"/></a></td>
+	<td><a href="#"><img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" width="80px"/></a></td>
+	<td><a href="#"><img src="https://static.cdnlogo.com/logos/r/14/react_800.png" width="60px"/></a></td>
+	<td><a href="#"><img src="https://static.cdnlogo.com/logos/p/77/php_800.png" width="100px"/></a></td>
+	<td><a href="#"><img src="https://static.cdnlogo.com/logos/w/84/wordpress-icon_800.png" width="100px"/></a></td>
+	<td><a href="#"><img src="https://static.cdnlogo.com/logos/j/9/javascript_800.png" width="70px"/></a></td>
     </tr>
   </table>
 </div>
